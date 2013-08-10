@@ -1,0 +1,54 @@
+import fbx dynamicaly *++++***
+
+浸水
+	calcHeight( t: float );
+
+	アニメーション
+		再生
+			FloodPlay();
+			FloodReset();
+			FloodStop();
+		タイムライン
+			AddFloodKeyFrame( string );
+				"time, height, time, ..."
+			ResetFloodKeyFrame();
+	水位
+		setHeight( string );
+
+	
+
+時間と太陽
+	時刻
+		time float
+	ライト
+		角度
+		色
+		on off
+
+天候
+
+シェーダーの切り替え
+	地面
+		color	color
+		wireframe true, false
+		transparent, true, alpha, false
+
+カメラ
+	回転
+		ジャイロ
+	位置
+		高度
+			地形との衝突判定
+		GPS
+			GPS_MODE; // true, false
+			座標系
+				setRPCS_X( string );
+				setRPCS_Y( string );
+			緯度経度
+				latitude
+				longitude
+			
+	レンダリング
+		focal
+		fov
+		nearclip, farclip

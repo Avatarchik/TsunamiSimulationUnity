@@ -1,0 +1,16 @@
+・地形と同期は分かりやすい表記に変える
+・水面テクスチャとそのアニメーション
+・スクリーンキャプチャー機能　実装　動作チェック
+Main Camera, captureScreen
+・東京座標に設定が効いてない？
+・オフセットの際座標に即移動させるメソッドが必要
+・カメラの調整でタッチスクリーンのXYに対応したカメラ角メソッドがUnityで必要
+・スクリーンキャプチャー機能　実装済
+・建物内の処理
+・マップの範囲を出ています
+・ViewFlipper
+・ViewFlipperで切り替えられるとthreadは止まる。そうなるようにしてる。
+・HelloworldViewにボタンを設置するには？　flipされるlayoutの子に置いた
+・threadが動かなくなった
+Error:Only the original thread that created a view hierarchy can touch its views.
+・別のviewからはthreadを操作できない
