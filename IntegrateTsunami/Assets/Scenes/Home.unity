@@ -115,7 +115,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 3cec8e9bd2e56d840bc2147da74ca1be, type: 2}
+  - {fileID: 2100000, guid: 59cc4973e7ddd874e8daee96c050dd0f, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -128,7 +128,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 228664485}
-  m_Mesh: {fileID: 4300000, guid: 452271d96387fdf4a8f6cf59c5cc115e, type: 3}
+  m_Mesh: {fileID: 4300004, guid: bdd7736baf26fa74d9994db42a336a92, type: 3}
 --- !u!1 &443179427
 GameObject:
   m_ObjectHideFlags: 0
@@ -234,7 +234,7 @@ Animator:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 497314284}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 452271d96387fdf4a8f6cf59c5cc115e, type: 3}
+  m_Avatar: {fileID: 9000000, guid: bdd7736baf26fa74d9994db42a336a92, type: 3}
   m_Controller: {fileID: 0}
   m_CullingMode: 1
   m_ApplyRootMotion: 1
@@ -247,14 +247,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 497314284}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15f8be44118b88142957820dc8d079a5, type: 3}
+  m_Script: {fileID: 11500000, guid: 2f10e4e25ca863c4fa9cbc3a37a6e45c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   MATERIAL_MODE: 1
-  mat0: {fileID: 2100000, guid: 7a85ad7ff326504469e9c8ae7abcad9b, type: 2}
-  mat1: {fileID: 2100000, guid: 153f906ac4e866e4c90b592fc49b8d22, type: 2}
-  mat2: {fileID: 2100000, guid: fa1a996fbc64bd44f865dfabef2b014a, type: 2}
-  mat3: {fileID: 2100000, guid: 8f60389bbe5a6bd4f81aa07406c3ac00, type: 2}
+  mat0: {fileID: 2100000, guid: a9196d139f99e2249be14ec86552191e, type: 2}
+  mat1: {fileID: 2100000, guid: 94589278e4626ce418f49383c3edd0c3, type: 2}
+  mat2: {fileID: 2100000, guid: 2af4b94e658ddd44a942a97e55f134a0, type: 2}
+  mat3: {fileID: 2100000, guid: bec6555bfdc344b45853195eec93d3a3, type: 2}
   materialColor: {r: 0, g: 0, b: 0, a: 0}
   materialAlpha: .5
   TAG: 
@@ -362,7 +362,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 3cec8e9bd2e56d840bc2147da74ca1be, type: 2}
+  - {fileID: 2100000, guid: 59cc4973e7ddd874e8daee96c050dd0f, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -375,7 +375,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 632029487}
-  m_Mesh: {fileID: 4300000, guid: 452271d96387fdf4a8f6cf59c5cc115e, type: 3}
+  m_Mesh: {fileID: 4300004, guid: bdd7736baf26fa74d9994db42a336a92, type: 3}
 --- !u!4 &632029490
 Transform:
   m_ObjectHideFlags: 0
@@ -419,7 +419,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 34da946452aaf2549813b138c5db8502, type: 2}
+  - {fileID: 2100000, guid: d510481786ed73646b8ef7b68976a8b3, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -464,14 +464,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 671914730}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 15f8be44118b88142957820dc8d079a5, type: 3}
+  m_Script: {fileID: 11500000, guid: 2f10e4e25ca863c4fa9cbc3a37a6e45c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   MATERIAL_MODE: 1
-  mat0: {fileID: 2100000, guid: 34da946452aaf2549813b138c5db8502, type: 2}
-  mat1: {fileID: 2100000, guid: c3fb78376ab560d40b52e28ac90ab4c5, type: 2}
-  mat2: {fileID: 2100000, guid: 34da946452aaf2549813b138c5db8502, type: 2}
-  mat3: {fileID: 2100000, guid: c3fb78376ab560d40b52e28ac90ab4c5, type: 2}
+  mat0: {fileID: 2100000, guid: d510481786ed73646b8ef7b68976a8b3, type: 2}
+  mat1: {fileID: 2100000, guid: c48412d3dc2d4c6408e665167cdcefc8, type: 2}
+  mat2: {fileID: 2100000, guid: d510481786ed73646b8ef7b68976a8b3, type: 2}
+  mat3: {fileID: 2100000, guid: c48412d3dc2d4c6408e665167cdcefc8, type: 2}
   materialColor: {r: 0, g: 0, b: 0, a: 0}
   materialAlpha: .5
   TAG: 
@@ -484,7 +484,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 671914730}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0d14319ad8060e45972fd9f89a669e0, type: 3}
+  m_Script: {fileID: 11500000, guid: da9ba2e3488f14749a6a78bb73e11d3a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   height: 10
@@ -503,6 +503,7 @@ GameObject:
   - 33: {fileID: 691353657}
   - 64: {fileID: 691353658}
   - 23: {fileID: 691353656}
+  - 114: {fileID: 691353659}
   - 114: {fileID: 691353660}
   m_Layer: 8
   m_Name: NegativeGrayscaleVideo
@@ -563,6 +564,27 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 10209, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &691353659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 11400000, guid: 25c1b4631fd36df4cb1dc4008128a600,
+    type: 2}
+  m_PrefabInternal: {fileID: 538598097}
+  m_GameObject: {fileID: 691353654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dbd05c6822b936448bc046b30112275, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  webcamTexture: {fileID: 0}
+  m_Camera: {fileID: 1835049724}
+  mScreenOrientation: 0
+  mScreenWidth: 0
+  mScreenHeight: 0
+  mWebCamTextureWidth: 800
+  mWebCamTextureHeight: 1280
+  vh: 0
+  MODE_NEXUS: 1
 --- !u!114 &691353660
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -571,7 +593,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 691353654}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2c8e12e6c492241498fdeb93fdd81a1b, type: 3}
+  m_Script: {fileID: 11500000, guid: 9dbd05c6822b936448bc046b30112275, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   webcamTexture: {fileID: 0}
@@ -619,7 +641,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 783000669}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 31324962c6384aa44858de70f397f172, type: 3}
+  m_Script: {fileID: 11500000, guid: 6de800a6ddb08c34cbec742d81c472bc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mainCam: {fileID: 1188210881}
@@ -715,7 +737,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 3cec8e9bd2e56d840bc2147da74ca1be, type: 2}
+  - {fileID: 2100000, guid: 59cc4973e7ddd874e8daee96c050dd0f, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -728,7 +750,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 980855487}
-  m_Mesh: {fileID: 4300002, guid: 452271d96387fdf4a8f6cf59c5cc115e, type: 3}
+  m_Mesh: {fileID: 4300006, guid: bdd7736baf26fa74d9994db42a336a92, type: 3}
 --- !u!4 &980855490
 Transform:
   m_ObjectHideFlags: 0
@@ -829,7 +851,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1188210879}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a87ce06f645b10e40b300fa8ea073c1f, type: 3}
+  m_Script: {fileID: 11500000, guid: f5b6a488dd2bd9d49b875e0012cbb9ca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   angle_x: 0
@@ -862,7 +884,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1188210879}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ab03208bd2dd274b9c68ecdbea07701, type: 3}
+  m_Script: {fileID: 11500000, guid: c5f76e0d2aaabbf43873fdb7a442e90e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1205023142
@@ -895,7 +917,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 118ecf1e1c8ffe8479413c91a36ea218, type: 2}
+  - {fileID: 2100000, guid: 5c331614daf9b3346a263faa18871da0, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -908,7 +930,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1205023142}
-  m_Mesh: {fileID: 4300006, guid: 452271d96387fdf4a8f6cf59c5cc115e, type: 3}
+  m_Mesh: {fileID: 4300002, guid: bdd7736baf26fa74d9994db42a336a92, type: 3}
 --- !u!4 &1205023145
 Transform:
   m_ObjectHideFlags: 0
@@ -1008,7 +1030,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1581535227}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d86fcea48eae6242a21b8de4367ac8d, type: 3}
+  m_Script: {fileID: 11500000, guid: 3f6a53bba509c194c85ab75ce36049ce, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mainCam: {fileID: 1188210881}
@@ -1042,7 +1064,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 118ecf1e1c8ffe8479413c91a36ea218, type: 2}
+  - {fileID: 2100000, guid: 5c331614daf9b3346a263faa18871da0, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -1055,7 +1077,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1675107368}
-  m_Mesh: {fileID: 4300006, guid: 452271d96387fdf4a8f6cf59c5cc115e, type: 3}
+  m_Mesh: {fileID: 4300002, guid: bdd7736baf26fa74d9994db42a336a92, type: 3}
 --- !u!4 &1675107371
 Transform:
   m_ObjectHideFlags: 0
@@ -1266,7 +1288,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 65aafc70c8da0d440b1009e61e0e6f00, type: 2}
+  - {fileID: 2100000, guid: db90c9b6e2e29954f91f08473b9e2a8f, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -1279,7 +1301,7 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 1816648995}
   m_GameObject: {fileID: 1848145346}
-  m_Mesh: {fileID: 4300000, guid: 621f40c936b1b014dac891756ab0a157, type: 3}
+  m_Mesh: {fileID: 4300000, guid: 823afe9f84d973244b56c9cab7ddc057, type: 3}
 --- !u!1 &2114663432
 GameObject:
   m_ObjectHideFlags: 0
@@ -1317,7 +1339,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2114663432}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 37325cdfc5116564f871ac876b38d169, type: 3}
+  m_Script: {fileID: 11500000, guid: 659bb801d2383854d996fb7233a22d62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   MAP_MAXIMIZED: 0
@@ -1330,7 +1352,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2114663432}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24f7ac33014b84b45b73268ff73bdff1, type: 3}
+  m_Script: {fileID: 11500000, guid: e4600d0d3d9d4304fa374c02b7143b25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   b: 1
@@ -1342,8 +1364,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 2114663432}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 623e7aa9ded2c77429bc3c79a89b769e, type: 3}
+  m_Script: {fileID: 11500000, guid: ce217c26c17c103489a45e2ea4ce53e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   mainCamera: {fileID: 1188210881}
-  pinPrefab: {fileID: 100000, guid: 75a848d149ef1b247b53bdb95b92421b, type: 2}
+  pinPrefab: {fileID: 100000, guid: ff1539b6a6ab03a42980a7f79b2c0de0, type: 2}
