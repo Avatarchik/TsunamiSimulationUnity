@@ -1,0 +1,3414 @@
+fileFormatVersion: 2
+guid: 4f37ee1b41ccd1444a4cd7e19af26d8a
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Akashi-Kaikyo_Bridge
+    100002: //RootNode
+    100004: anchor
+    100006: anchor 1
+    100008: cable
+    100010: cable 1
+    100012: cable2
+    100014: cable2 1
+    100016: cable2 2
+    100018: cable2 3
+    100020: Derrick
+    100022: group_0
+    100024: ID106
+    100026: ID1138
+    100028: ID114
+    100030: ID1153
+    100032: ID1168
+    100034: ID1178
+    100036: ID1188
+    100038: ID122
+    100040: ID130
+    100042: ID138
+    100044: ID146
+    100046: ID154
+    100048: ID16
+    100050: ID162
+    100052: ID170
+    100054: ID178
+    100056: ID186
+    100058: ID194
+    100060: ID202
+    100062: ID210
+    100064: ID218
+    100066: ID226
+    100068: ID234
+    100070: ID24
+    100072: ID242
+    100074: ID250
+    100076: ID258
+    100078: ID266
+    100080: ID274
+    100082: ID292
+    100084: ID302
+    100086: ID310
+    100088: ID32
+    100090: ID320
+    100092: ID328
+    100094: ID336
+    100096: ID344
+    100098: ID354
+    100100: ID362
+    100102: ID370
+    100104: ID378
+    100106: ID386
+    100108: ID394
+    100110: ID402
+    100112: ID410
+    100114: ID418
+    100116: ID42
+    100118: ID428
+    100120: ID436
+    100122: ID444
+    100124: ID454
+    100126: ID462
+    100128: ID468
+    100130: ID472
+    100132: ID476
+    100134: ID480
+    100136: ID484
+    100138: ID488
+    100140: ID492
+    100142: ID496
+    100144: ID50
+    100146: ID518
+    100148: ID533
+    100150: ID543
+    100152: ID551
+    100154: ID557
+    100156: ID578
+    100158: ID578 1
+    100160: ID58
+    100162: ID588
+    100164: ID588 1
+    100166: ID603
+    100168: ID603 1
+    100170: ID618
+    100172: ID618 1
+    100174: ID628
+    100176: ID628 1
+    100178: ID638
+    100180: ID638 1
+    100182: ID648
+    100184: ID648 1
+    100186: ID658
+    100188: ID658 1
+    100190: ID66
+    100192: ID668
+    100194: ID668 1
+    100196: ID678
+    100198: ID678 1
+    100200: ID688
+    100202: ID688 1
+    100204: ID698
+    100206: ID698 1
+    100208: ID713
+    100210: ID713 1
+    100212: ID723
+    100214: ID723 1
+    100216: ID733
+    100218: ID733 1
+    100220: ID74
+    100222: ID743
+    100224: ID743 1
+    100226: ID753
+    100228: ID753 1
+    100230: ID763
+    100232: ID763 1
+    100234: ID773
+    100236: ID773 1
+    100238: ID798
+    100240: ID798 1
+    100242: ID82
+    100244: ID843
+    100246: ID843 1
+    100248: ID843 10
+    100250: ID843 100
+    100252: ID843 101
+    100254: ID843 102
+    100256: ID843 103
+    100258: ID843 104
+    100260: ID843 105
+    100262: ID843 106
+    100264: ID843 107
+    100266: ID843 108
+    100268: ID843 109
+    100270: ID843 11
+    100272: ID843 110
+    100274: ID843 111
+    100276: ID843 112
+    100278: ID843 113
+    100280: ID843 114
+    100282: ID843 115
+    100284: ID843 116
+    100286: ID843 117
+    100288: ID843 118
+    100290: ID843 119
+    100292: ID843 12
+    100294: ID843 120
+    100296: ID843 121
+    100298: ID843 122
+    100300: ID843 123
+    100302: ID843 124
+    100304: ID843 125
+    100306: ID843 126
+    100308: ID843 127
+    100310: ID843 128
+    100312: ID843 129
+    100314: ID843 13
+    100316: ID843 130
+    100318: ID843 131
+    100320: ID843 132
+    100322: ID843 133
+    100324: ID843 134
+    100326: ID843 135
+    100328: ID843 136
+    100330: ID843 137
+    100332: ID843 138
+    100334: ID843 139
+    100336: ID843 14
+    100338: ID843 140
+    100340: ID843 141
+    100342: ID843 142
+    100344: ID843 143
+    100346: ID843 144
+    100348: ID843 145
+    100350: ID843 146
+    100352: ID843 147
+    100354: ID843 148
+    100356: ID843 149
+    100358: ID843 15
+    100360: ID843 150
+    100362: ID843 151
+    100364: ID843 152
+    100366: ID843 153
+    100368: ID843 154
+    100370: ID843 155
+    100372: ID843 156
+    100374: ID843 157
+    100376: ID843 158
+    100378: ID843 159
+    100380: ID843 16
+    100382: ID843 160
+    100384: ID843 161
+    100386: ID843 162
+    100388: ID843 163
+    100390: ID843 164
+    100392: ID843 165
+    100394: ID843 166
+    100396: ID843 167
+    100398: ID843 168
+    100400: ID843 169
+    100402: ID843 17
+    100404: ID843 170
+    100406: ID843 171
+    100408: ID843 172
+    100410: ID843 173
+    100412: ID843 174
+    100414: ID843 175
+    100416: ID843 176
+    100418: ID843 177
+    100420: ID843 178
+    100422: ID843 179
+    100424: ID843 18
+    100426: ID843 180
+    100428: ID843 181
+    100430: ID843 182
+    100432: ID843 183
+    100434: ID843 184
+    100436: ID843 185
+    100438: ID843 186
+    100440: ID843 187
+    100442: ID843 188
+    100444: ID843 189
+    100446: ID843 19
+    100448: ID843 190
+    100450: ID843 191
+    100452: ID843 192
+    100454: ID843 193
+    100456: ID843 194
+    100458: ID843 195
+    100460: ID843 196
+    100462: ID843 197
+    100464: ID843 198
+    100466: ID843 199
+    100468: ID843 2
+    100470: ID843 20
+    100472: ID843 200
+    100474: ID843 201
+    100476: ID843 202
+    100478: ID843 203
+    100480: ID843 204
+    100482: ID843 205
+    100484: ID843 206
+    100486: ID843 207
+    100488: ID843 208
+    100490: ID843 209
+    100492: ID843 21
+    100494: ID843 210
+    100496: ID843 211
+    100498: ID843 212
+    100500: ID843 213
+    100502: ID843 214
+    100504: ID843 215
+    100506: ID843 216
+    100508: ID843 217
+    100510: ID843 218
+    100512: ID843 219
+    100514: ID843 22
+    100516: ID843 220
+    100518: ID843 221
+    100520: ID843 222
+    100522: ID843 223
+    100524: ID843 224
+    100526: ID843 225
+    100528: ID843 226
+    100530: ID843 227
+    100532: ID843 228
+    100534: ID843 229
+    100536: ID843 23
+    100538: ID843 230
+    100540: ID843 231
+    100542: ID843 232
+    100544: ID843 233
+    100546: ID843 234
+    100548: ID843 235
+    100550: ID843 236
+    100552: ID843 237
+    100554: ID843 238
+    100556: ID843 239
+    100558: ID843 24
+    100560: ID843 240
+    100562: ID843 241
+    100564: ID843 242
+    100566: ID843 243
+    100568: ID843 244
+    100570: ID843 245
+    100572: ID843 246
+    100574: ID843 247
+    100576: ID843 248
+    100578: ID843 249
+    100580: ID843 25
+    100582: ID843 250
+    100584: ID843 251
+    100586: ID843 252
+    100588: ID843 253
+    100590: ID843 254
+    100592: ID843 255
+    100594: ID843 256
+    100596: ID843 257
+    100598: ID843 258
+    100600: ID843 259
+    100602: ID843 26
+    100604: ID843 260
+    100606: ID843 261
+    100608: ID843 262
+    100610: ID843 263
+    100612: ID843 264
+    100614: ID843 265
+    100616: ID843 266
+    100618: ID843 267
+    100620: ID843 268
+    100622: ID843 269
+    100624: ID843 27
+    100626: ID843 270
+    100628: ID843 271
+    100630: ID843 272
+    100632: ID843 273
+    100634: ID843 274
+    100636: ID843 275
+    100638: ID843 28
+    100640: ID843 29
+    100642: ID843 3
+    100644: ID843 30
+    100646: ID843 31
+    100648: ID843 32
+    100650: ID843 33
+    100652: ID843 34
+    100654: ID843 35
+    100656: ID843 36
+    100658: ID843 37
+    100660: ID843 38
+    100662: ID843 39
+    100664: ID843 4
+    100666: ID843 40
+    100668: ID843 41
+    100670: ID843 42
+    100672: ID843 43
+    100674: ID843 44
+    100676: ID843 45
+    100678: ID843 46
+    100680: ID843 47
+    100682: ID843 48
+    100684: ID843 49
+    100686: ID843 5
+    100688: ID843 50
+    100690: ID843 51
+    100692: ID843 52
+    100694: ID843 53
+    100696: ID843 54
+    100698: ID843 55
+    100700: ID843 56
+    100702: ID843 57
+    100704: ID843 58
+    100706: ID843 59
+    100708: ID843 6
+    100710: ID843 60
+    100712: ID843 61
+    100714: ID843 62
+    100716: ID843 63
+    100718: ID843 64
+    100720: ID843 65
+    100722: ID843 66
+    100724: ID843 67
+    100726: ID843 68
+    100728: ID843 69
+    100730: ID843 7
+    100732: ID843 70
+    100734: ID843 71
+    100736: ID843 72
+    100738: ID843 73
+    100740: ID843 74
+    100742: ID843 75
+    100744: ID843 76
+    100746: ID843 77
+    100748: ID843 78
+    100750: ID843 79
+    100752: ID843 8
+    100754: ID843 80
+    100756: ID843 81
+    100758: ID843 82
+    100760: ID843 83
+    100762: ID843 84
+    100764: ID843 85
+    100766: ID843 86
+    100768: ID843 87
+    100770: ID843 88
+    100772: ID843 89
+    100774: ID843 9
+    100776: ID843 90
+    100778: ID843 91
+    100780: ID843 92
+    100782: ID843 93
+    100784: ID843 94
+    100786: ID843 95
+    100788: ID843 96
+    100790: ID843 97
+    100792: ID843 98
+    100794: ID843 99
+    100796: ID90
+    100798: ID98
+    100800: instance_0
+    100802: instance_1
+    100804: instance_10
+    100806: instance_100
+    100808: instance_101
+    100810: instance_102
+    100812: instance_103
+    100814: instance_104
+    100816: instance_105
+    100818: instance_106
+    100820: instance_107
+    100822: instance_108
+    100824: instance_109
+    100826: instance_11
+    100828: instance_110
+    100830: instance_111
+    100832: instance_112
+    100834: instance_113
+    100836: instance_114
+    100838: instance_115
+    100840: instance_116
+    100842: instance_117
+    100844: instance_118
+    100846: instance_119
+    100848: instance_12
+    100850: instance_120
+    100852: instance_121
+    100854: instance_122
+    100856: instance_123
+    100858: instance_124
+    100860: instance_125
+    100862: instance_126
+    100864: instance_127
+    100866: instance_128
+    100868: instance_129
+    100870: instance_13
+    100872: instance_130
+    100874: instance_131
+    100876: instance_132
+    100878: instance_133
+    100880: instance_134
+    100882: instance_135
+    100884: instance_136
+    100886: instance_137
+    100888: instance_138
+    100890: instance_139
+    100892: instance_14
+    100894: instance_140
+    100896: instance_141
+    100898: instance_142
+    100900: instance_143
+    100902: instance_144
+    100904: instance_145
+    100906: instance_146
+    100908: instance_147
+    100910: instance_148
+    100912: instance_149
+    100914: instance_15
+    100916: instance_150
+    100918: instance_151
+    100920: instance_152
+    100922: instance_153
+    100924: instance_154
+    100926: instance_155
+    100928: instance_156
+    100930: instance_157
+    100932: instance_158
+    100934: instance_159
+    100936: instance_16
+    100938: instance_160
+    100940: instance_161
+    100942: instance_162
+    100944: instance_163
+    100946: instance_164
+    100948: instance_165
+    100950: instance_166
+    100952: instance_167
+    100954: instance_168
+    100956: instance_169
+    100958: instance_17
+    100960: instance_170
+    100962: instance_171
+    100964: instance_172
+    100966: instance_173
+    100968: instance_174
+    100970: instance_175
+    100972: instance_176
+    100974: instance_177
+    100976: instance_178
+    100978: instance_179
+    100980: instance_18
+    100982: instance_180
+    100984: instance_181
+    100986: instance_182
+    100988: instance_183
+    100990: instance_184
+    100992: instance_185
+    100994: instance_186
+    100996: instance_187
+    100998: instance_188
+    101000: instance_189
+    101002: instance_19
+    101004: instance_190
+    101006: instance_191
+    101008: instance_192
+    101010: instance_193
+    101012: instance_194
+    101014: instance_195
+    101016: instance_196
+    101018: instance_197
+    101020: instance_198
+    101022: instance_199
+    101024: instance_2
+    101026: instance_20
+    101028: instance_200
+    101030: instance_201
+    101032: instance_202
+    101034: instance_203
+    101036: instance_204
+    101038: instance_205
+    101040: instance_206
+    101042: instance_207
+    101044: instance_208
+    101046: instance_209
+    101048: instance_21
+    101050: instance_210
+    101052: instance_211
+    101054: instance_212
+    101056: instance_213
+    101058: instance_214
+    101060: instance_215
+    101062: instance_216
+    101064: instance_217
+    101066: instance_218
+    101068: instance_219
+    101070: instance_22
+    101072: instance_220
+    101074: instance_221
+    101076: instance_222
+    101078: instance_223
+    101080: instance_224
+    101082: instance_225
+    101084: instance_226
+    101086: instance_227
+    101088: instance_228
+    101090: instance_229
+    101092: instance_23
+    101094: instance_230
+    101096: instance_231
+    101098: instance_232
+    101100: instance_233
+    101102: instance_234
+    101104: instance_235
+    101106: instance_236
+    101108: instance_237
+    101110: instance_238
+    101112: instance_239
+    101114: instance_24
+    101116: instance_240
+    101118: instance_241
+    101120: instance_242
+    101122: instance_243
+    101124: instance_244
+    101126: instance_245
+    101128: instance_246
+    101130: instance_247
+    101132: instance_248
+    101134: instance_249
+    101136: instance_25
+    101138: instance_250
+    101140: instance_251
+    101142: instance_252
+    101144: instance_253
+    101146: instance_254
+    101148: instance_255
+    101150: instance_256
+    101152: instance_257
+    101154: instance_258
+    101156: instance_259
+    101158: instance_26
+    101160: instance_260
+    101162: instance_261
+    101164: instance_262
+    101166: instance_263
+    101168: instance_264
+    101170: instance_265
+    101172: instance_266
+    101174: instance_267
+    101176: instance_268
+    101178: instance_269
+    101180: instance_27
+    101182: instance_270
+    101184: instance_271
+    101186: instance_272
+    101188: instance_273
+    101190: instance_274
+    101192: instance_275
+    101194: instance_276
+    101196: instance_277
+    101198: instance_278
+    101200: instance_279
+    101202: instance_28
+    101204: instance_280
+    101206: instance_281
+    101208: instance_282
+    101210: instance_283
+    101212: instance_284
+    101214: instance_285
+    101216: instance_286
+    101218: instance_287
+    101220: instance_288
+    101222: instance_29
+    101224: instance_3
+    101226: instance_30
+    101228: instance_31
+    101230: instance_32
+    101232: instance_33
+    101234: instance_34
+    101236: instance_35
+    101238: instance_36
+    101240: instance_37
+    101242: instance_38
+    101244: instance_39
+    101246: instance_4
+    101248: instance_40
+    101250: instance_41
+    101252: instance_42
+    101254: instance_43
+    101256: instance_44
+    101258: instance_45
+    101260: instance_46
+    101262: instance_47
+    101264: instance_48
+    101266: instance_49
+    101268: instance_5
+    101270: instance_50
+    101272: instance_51
+    101274: instance_52
+    101276: instance_53
+    101278: instance_54
+    101280: instance_55
+    101282: instance_56
+    101284: instance_57
+    101286: instance_58
+    101288: instance_59
+    101290: instance_6
+    101292: instance_60
+    101294: instance_61
+    101296: instance_62
+    101298: instance_63
+    101300: instance_64
+    101302: instance_65
+    101304: instance_66
+    101306: instance_67
+    101308: instance_68
+    101310: instance_69
+    101312: instance_7
+    101314: instance_70
+    101316: instance_71
+    101318: instance_72
+    101320: instance_73
+    101322: instance_74
+    101324: instance_75
+    101326: instance_76
+    101328: instance_77
+    101330: instance_78
+    101332: instance_79
+    101334: instance_8
+    101336: instance_80
+    101338: instance_81
+    101340: instance_82
+    101342: instance_83
+    101344: instance_84
+    101346: instance_85
+    101348: instance_86
+    101350: instance_87
+    101352: instance_88
+    101354: instance_89
+    101356: instance_9
+    101358: instance_90
+    101360: instance_91
+    101362: instance_92
+    101364: instance_93
+    101366: instance_94
+    101368: instance_95
+    101370: instance_96
+    101372: instance_97
+    101374: instance_98
+    101376: instance_99
+    101378: Rodeo_2
+    101380: smallcable
+    101382: smallcable 1
+    101384: smallcable 10
+    101386: smallcable 100
+    101388: smallcable 101
+    101390: smallcable 102
+    101392: smallcable 103
+    101394: smallcable 104
+    101396: smallcable 105
+    101398: smallcable 106
+    101400: smallcable 107
+    101402: smallcable 108
+    101404: smallcable 109
+    101406: smallcable 11
+    101408: smallcable 110
+    101410: smallcable 111
+    101412: smallcable 112
+    101414: smallcable 113
+    101416: smallcable 114
+    101418: smallcable 115
+    101420: smallcable 116
+    101422: smallcable 117
+    101424: smallcable 118
+    101426: smallcable 119
+    101428: smallcable 12
+    101430: smallcable 120
+    101432: smallcable 121
+    101434: smallcable 122
+    101436: smallcable 123
+    101438: smallcable 124
+    101440: smallcable 125
+    101442: smallcable 126
+    101444: smallcable 127
+    101446: smallcable 128
+    101448: smallcable 129
+    101450: smallcable 13
+    101452: smallcable 130
+    101454: smallcable 131
+    101456: smallcable 132
+    101458: smallcable 133
+    101460: smallcable 134
+    101462: smallcable 135
+    101464: smallcable 136
+    101466: smallcable 137
+    101468: smallcable 138
+    101470: smallcable 139
+    101472: smallcable 14
+    101474: smallcable 140
+    101476: smallcable 141
+    101478: smallcable 142
+    101480: smallcable 143
+    101482: smallcable 144
+    101484: smallcable 145
+    101486: smallcable 146
+    101488: smallcable 147
+    101490: smallcable 148
+    101492: smallcable 149
+    101494: smallcable 15
+    101496: smallcable 150
+    101498: smallcable 151
+    101500: smallcable 152
+    101502: smallcable 153
+    101504: smallcable 154
+    101506: smallcable 155
+    101508: smallcable 156
+    101510: smallcable 157
+    101512: smallcable 158
+    101514: smallcable 159
+    101516: smallcable 16
+    101518: smallcable 160
+    101520: smallcable 161
+    101522: smallcable 162
+    101524: smallcable 163
+    101526: smallcable 164
+    101528: smallcable 165
+    101530: smallcable 166
+    101532: smallcable 167
+    101534: smallcable 168
+    101536: smallcable 169
+    101538: smallcable 17
+    101540: smallcable 170
+    101542: smallcable 171
+    101544: smallcable 172
+    101546: smallcable 173
+    101548: smallcable 174
+    101550: smallcable 175
+    101552: smallcable 176
+    101554: smallcable 177
+    101556: smallcable 178
+    101558: smallcable 179
+    101560: smallcable 18
+    101562: smallcable 180
+    101564: smallcable 181
+    101566: smallcable 182
+    101568: smallcable 183
+    101570: smallcable 184
+    101572: smallcable 185
+    101574: smallcable 186
+    101576: smallcable 187
+    101578: smallcable 188
+    101580: smallcable 189
+    101582: smallcable 19
+    101584: smallcable 190
+    101586: smallcable 191
+    101588: smallcable 192
+    101590: smallcable 193
+    101592: smallcable 194
+    101594: smallcable 195
+    101596: smallcable 196
+    101598: smallcable 197
+    101600: smallcable 198
+    101602: smallcable 199
+    101604: smallcable 2
+    101606: smallcable 20
+    101608: smallcable 200
+    101610: smallcable 201
+    101612: smallcable 202
+    101614: smallcable 203
+    101616: smallcable 204
+    101618: smallcable 205
+    101620: smallcable 206
+    101622: smallcable 207
+    101624: smallcable 208
+    101626: smallcable 209
+    101628: smallcable 21
+    101630: smallcable 210
+    101632: smallcable 211
+    101634: smallcable 212
+    101636: smallcable 213
+    101638: smallcable 214
+    101640: smallcable 215
+    101642: smallcable 216
+    101644: smallcable 217
+    101646: smallcable 218
+    101648: smallcable 219
+    101650: smallcable 22
+    101652: smallcable 220
+    101654: smallcable 221
+    101656: smallcable 222
+    101658: smallcable 223
+    101660: smallcable 224
+    101662: smallcable 225
+    101664: smallcable 226
+    101666: smallcable 227
+    101668: smallcable 228
+    101670: smallcable 229
+    101672: smallcable 23
+    101674: smallcable 230
+    101676: smallcable 231
+    101678: smallcable 232
+    101680: smallcable 233
+    101682: smallcable 234
+    101684: smallcable 235
+    101686: smallcable 236
+    101688: smallcable 237
+    101690: smallcable 238
+    101692: smallcable 239
+    101694: smallcable 24
+    101696: smallcable 240
+    101698: smallcable 241
+    101700: smallcable 242
+    101702: smallcable 243
+    101704: smallcable 244
+    101706: smallcable 245
+    101708: smallcable 246
+    101710: smallcable 247
+    101712: smallcable 248
+    101714: smallcable 249
+    101716: smallcable 25
+    101718: smallcable 250
+    101720: smallcable 251
+    101722: smallcable 252
+    101724: smallcable 253
+    101726: smallcable 254
+    101728: smallcable 255
+    101730: smallcable 256
+    101732: smallcable 257
+    101734: smallcable 258
+    101736: smallcable 259
+    101738: smallcable 26
+    101740: smallcable 260
+    101742: smallcable 261
+    101744: smallcable 262
+    101746: smallcable 263
+    101748: smallcable 264
+    101750: smallcable 265
+    101752: smallcable 266
+    101754: smallcable 267
+    101756: smallcable 268
+    101758: smallcable 269
+    101760: smallcable 27
+    101762: smallcable 270
+    101764: smallcable 271
+    101766: smallcable 272
+    101768: smallcable 273
+    101770: smallcable 274
+    101772: smallcable 275
+    101774: smallcable 28
+    101776: smallcable 29
+    101778: smallcable 3
+    101780: smallcable 30
+    101782: smallcable 31
+    101784: smallcable 32
+    101786: smallcable 33
+    101788: smallcable 34
+    101790: smallcable 35
+    101792: smallcable 36
+    101794: smallcable 37
+    101796: smallcable 38
+    101798: smallcable 39
+    101800: smallcable 4
+    101802: smallcable 40
+    101804: smallcable 41
+    101806: smallcable 42
+    101808: smallcable 43
+    101810: smallcable 44
+    101812: smallcable 45
+    101814: smallcable 46
+    101816: smallcable 47
+    101818: smallcable 48
+    101820: smallcable 49
+    101822: smallcable 5
+    101824: smallcable 50
+    101826: smallcable 51
+    101828: smallcable 52
+    101830: smallcable 53
+    101832: smallcable 54
+    101834: smallcable 55
+    101836: smallcable 56
+    101838: smallcable 57
+    101840: smallcable 58
+    101842: smallcable 59
+    101844: smallcable 6
+    101846: smallcable 60
+    101848: smallcable 61
+    101850: smallcable 62
+    101852: smallcable 63
+    101854: smallcable 64
+    101856: smallcable 65
+    101858: smallcable 66
+    101860: smallcable 67
+    101862: smallcable 68
+    101864: smallcable 69
+    101866: smallcable 7
+    101868: smallcable 70
+    101870: smallcable 71
+    101872: smallcable 72
+    101874: smallcable 73
+    101876: smallcable 74
+    101878: smallcable 75
+    101880: smallcable 76
+    101882: smallcable 77
+    101884: smallcable 78
+    101886: smallcable 79
+    101888: smallcable 8
+    101890: smallcable 80
+    101892: smallcable 81
+    101894: smallcable 82
+    101896: smallcable 83
+    101898: smallcable 84
+    101900: smallcable 85
+    101902: smallcable 86
+    101904: smallcable 87
+    101906: smallcable 88
+    101908: smallcable 89
+    101910: smallcable 9
+    101912: smallcable 90
+    101914: smallcable 91
+    101916: smallcable 92
+    101918: smallcable 93
+    101920: smallcable 94
+    101922: smallcable 95
+    101924: smallcable 96
+    101926: smallcable 97
+    101928: smallcable 98
+    101930: smallcable 99
+    101932: tower
+    101934: tower 1
+    400000: Akashi-Kaikyo_Bridge
+    400002: //RootNode
+    400004: anchor
+    400006: anchor 1
+    400008: cable
+    400010: cable 1
+    400012: cable2
+    400014: cable2 1
+    400016: cable2 2
+    400018: cable2 3
+    400020: Derrick
+    400022: group_0
+    400024: ID106
+    400026: ID1138
+    400028: ID114
+    400030: ID1153
+    400032: ID1168
+    400034: ID1178
+    400036: ID1188
+    400038: ID122
+    400040: ID130
+    400042: ID138
+    400044: ID146
+    400046: ID154
+    400048: ID16
+    400050: ID162
+    400052: ID170
+    400054: ID178
+    400056: ID186
+    400058: ID194
+    400060: ID202
+    400062: ID210
+    400064: ID218
+    400066: ID226
+    400068: ID234
+    400070: ID24
+    400072: ID242
+    400074: ID250
+    400076: ID258
+    400078: ID266
+    400080: ID274
+    400082: ID292
+    400084: ID302
+    400086: ID310
+    400088: ID32
+    400090: ID320
+    400092: ID328
+    400094: ID336
+    400096: ID344
+    400098: ID354
+    400100: ID362
+    400102: ID370
+    400104: ID378
+    400106: ID386
+    400108: ID394
+    400110: ID402
+    400112: ID410
+    400114: ID418
+    400116: ID42
+    400118: ID428
+    400120: ID436
+    400122: ID444
+    400124: ID454
+    400126: ID462
+    400128: ID468
+    400130: ID472
+    400132: ID476
+    400134: ID480
+    400136: ID484
+    400138: ID488
+    400140: ID492
+    400142: ID496
+    400144: ID50
+    400146: ID518
+    400148: ID533
+    400150: ID543
+    400152: ID551
+    400154: ID557
+    400156: ID578
+    400158: ID578 1
+    400160: ID58
+    400162: ID588
+    400164: ID588 1
+    400166: ID603
+    400168: ID603 1
+    400170: ID618
+    400172: ID618 1
+    400174: ID628
+    400176: ID628 1
+    400178: ID638
+    400180: ID638 1
+    400182: ID648
+    400184: ID648 1
+    400186: ID658
+    400188: ID658 1
+    400190: ID66
+    400192: ID668
+    400194: ID668 1
+    400196: ID678
+    400198: ID678 1
+    400200: ID688
+    400202: ID688 1
+    400204: ID698
+    400206: ID698 1
+    400208: ID713
+    400210: ID713 1
+    400212: ID723
+    400214: ID723 1
+    400216: ID733
+    400218: ID733 1
+    400220: ID74
+    400222: ID743
+    400224: ID743 1
+    400226: ID753
+    400228: ID753 1
+    400230: ID763
+    400232: ID763 1
+    400234: ID773
+    400236: ID773 1
+    400238: ID798
+    400240: ID798 1
+    400242: ID82
+    400244: ID843
+    400246: ID843 1
+    400248: ID843 10
+    400250: ID843 100
+    400252: ID843 101
+    400254: ID843 102
+    400256: ID843 103
+    400258: ID843 104
+    400260: ID843 105
+    400262: ID843 106
+    400264: ID843 107
+    400266: ID843 108
+    400268: ID843 109
+    400270: ID843 11
+    400272: ID843 110
+    400274: ID843 111
+    400276: ID843 112
+    400278: ID843 113
+    400280: ID843 114
+    400282: ID843 115
+    400284: ID843 116
+    400286: ID843 117
+    400288: ID843 118
+    400290: ID843 119
+    400292: ID843 12
+    400294: ID843 120
+    400296: ID843 121
+    400298: ID843 122
+    400300: ID843 123
+    400302: ID843 124
+    400304: ID843 125
+    400306: ID843 126
+    400308: ID843 127
+    400310: ID843 128
+    400312: ID843 129
+    400314: ID843 13
+    400316: ID843 130
+    400318: ID843 131
+    400320: ID843 132
+    400322: ID843 133
+    400324: ID843 134
+    400326: ID843 135
+    400328: ID843 136
+    400330: ID843 137
+    400332: ID843 138
+    400334: ID843 139
+    400336: ID843 14
+    400338: ID843 140
+    400340: ID843 141
+    400342: ID843 142
+    400344: ID843 143
+    400346: ID843 144
+    400348: ID843 145
+    400350: ID843 146
+    400352: ID843 147
+    400354: ID843 148
+    400356: ID843 149
+    400358: ID843 15
+    400360: ID843 150
+    400362: ID843 151
+    400364: ID843 152
+    400366: ID843 153
+    400368: ID843 154
+    400370: ID843 155
+    400372: ID843 156
+    400374: ID843 157
+    400376: ID843 158
+    400378: ID843 159
+    400380: ID843 16
+    400382: ID843 160
+    400384: ID843 161
+    400386: ID843 162
+    400388: ID843 163
+    400390: ID843 164
+    400392: ID843 165
+    400394: ID843 166
+    400396: ID843 167
+    400398: ID843 168
+    400400: ID843 169
+    400402: ID843 17
+    400404: ID843 170
+    400406: ID843 171
+    400408: ID843 172
+    400410: ID843 173
+    400412: ID843 174
+    400414: ID843 175
+    400416: ID843 176
+    400418: ID843 177
+    400420: ID843 178
+    400422: ID843 179
+    400424: ID843 18
+    400426: ID843 180
+    400428: ID843 181
+    400430: ID843 182
+    400432: ID843 183
+    400434: ID843 184
+    400436: ID843 185
+    400438: ID843 186
+    400440: ID843 187
+    400442: ID843 188
+    400444: ID843 189
+    400446: ID843 19
+    400448: ID843 190
+    400450: ID843 191
+    400452: ID843 192
+    400454: ID843 193
+    400456: ID843 194
+    400458: ID843 195
+    400460: ID843 196
+    400462: ID843 197
+    400464: ID843 198
+    400466: ID843 199
+    400468: ID843 2
+    400470: ID843 20
+    400472: ID843 200
+    400474: ID843 201
+    400476: ID843 202
+    400478: ID843 203
+    400480: ID843 204
+    400482: ID843 205
+    400484: ID843 206
+    400486: ID843 207
+    400488: ID843 208
+    400490: ID843 209
+    400492: ID843 21
+    400494: ID843 210
+    400496: ID843 211
+    400498: ID843 212
+    400500: ID843 213
+    400502: ID843 214
+    400504: ID843 215
+    400506: ID843 216
+    400508: ID843 217
+    400510: ID843 218
+    400512: ID843 219
+    400514: ID843 22
+    400516: ID843 220
+    400518: ID843 221
+    400520: ID843 222
+    400522: ID843 223
+    400524: ID843 224
+    400526: ID843 225
+    400528: ID843 226
+    400530: ID843 227
+    400532: ID843 228
+    400534: ID843 229
+    400536: ID843 23
+    400538: ID843 230
+    400540: ID843 231
+    400542: ID843 232
+    400544: ID843 233
+    400546: ID843 234
+    400548: ID843 235
+    400550: ID843 236
+    400552: ID843 237
+    400554: ID843 238
+    400556: ID843 239
+    400558: ID843 24
+    400560: ID843 240
+    400562: ID843 241
+    400564: ID843 242
+    400566: ID843 243
+    400568: ID843 244
+    400570: ID843 245
+    400572: ID843 246
+    400574: ID843 247
+    400576: ID843 248
+    400578: ID843 249
+    400580: ID843 25
+    400582: ID843 250
+    400584: ID843 251
+    400586: ID843 252
+    400588: ID843 253
+    400590: ID843 254
+    400592: ID843 255
+    400594: ID843 256
+    400596: ID843 257
+    400598: ID843 258
+    400600: ID843 259
+    400602: ID843 26
+    400604: ID843 260
+    400606: ID843 261
+    400608: ID843 262
+    400610: ID843 263
+    400612: ID843 264
+    400614: ID843 265
+    400616: ID843 266
+    400618: ID843 267
+    400620: ID843 268
+    400622: ID843 269
+    400624: ID843 27
+    400626: ID843 270
+    400628: ID843 271
+    400630: ID843 272
+    400632: ID843 273
+    400634: ID843 274
+    400636: ID843 275
+    400638: ID843 28
+    400640: ID843 29
+    400642: ID843 3
+    400644: ID843 30
+    400646: ID843 31
+    400648: ID843 32
+    400650: ID843 33
+    400652: ID843 34
+    400654: ID843 35
+    400656: ID843 36
+    400658: ID843 37
+    400660: ID843 38
+    400662: ID843 39
+    400664: ID843 4
+    400666: ID843 40
+    400668: ID843 41
+    400670: ID843 42
+    400672: ID843 43
+    400674: ID843 44
+    400676: ID843 45
+    400678: ID843 46
+    400680: ID843 47
+    400682: ID843 48
+    400684: ID843 49
+    400686: ID843 5
+    400688: ID843 50
+    400690: ID843 51
+    400692: ID843 52
+    400694: ID843 53
+    400696: ID843 54
+    400698: ID843 55
+    400700: ID843 56
+    400702: ID843 57
+    400704: ID843 58
+    400706: ID843 59
+    400708: ID843 6
+    400710: ID843 60
+    400712: ID843 61
+    400714: ID843 62
+    400716: ID843 63
+    400718: ID843 64
+    400720: ID843 65
+    400722: ID843 66
+    400724: ID843 67
+    400726: ID843 68
+    400728: ID843 69
+    400730: ID843 7
+    400732: ID843 70
+    400734: ID843 71
+    400736: ID843 72
+    400738: ID843 73
+    400740: ID843 74
+    400742: ID843 75
+    400744: ID843 76
+    400746: ID843 77
+    400748: ID843 78
+    400750: ID843 79
+    400752: ID843 8
+    400754: ID843 80
+    400756: ID843 81
+    400758: ID843 82
+    400760: ID843 83
+    400762: ID843 84
+    400764: ID843 85
+    400766: ID843 86
+    400768: ID843 87
+    400770: ID843 88
+    400772: ID843 89
+    400774: ID843 9
+    400776: ID843 90
+    400778: ID843 91
+    400780: ID843 92
+    400782: ID843 93
+    400784: ID843 94
+    400786: ID843 95
+    400788: ID843 96
+    400790: ID843 97
+    400792: ID843 98
+    400794: ID843 99
+    400796: ID90
+    400798: ID98
+    400800: instance_0
+    400802: instance_1
+    400804: instance_10
+    400806: instance_100
+    400808: instance_101
+    400810: instance_102
+    400812: instance_103
+    400814: instance_104
+    400816: instance_105
+    400818: instance_106
+    400820: instance_107
+    400822: instance_108
+    400824: instance_109
+    400826: instance_11
+    400828: instance_110
+    400830: instance_111
+    400832: instance_112
+    400834: instance_113
+    400836: instance_114
+    400838: instance_115
+    400840: instance_116
+    400842: instance_117
+    400844: instance_118
+    400846: instance_119
+    400848: instance_12
+    400850: instance_120
+    400852: instance_121
+    400854: instance_122
+    400856: instance_123
+    400858: instance_124
+    400860: instance_125
+    400862: instance_126
+    400864: instance_127
+    400866: instance_128
+    400868: instance_129
+    400870: instance_13
+    400872: instance_130
+    400874: instance_131
+    400876: instance_132
+    400878: instance_133
+    400880: instance_134
+    400882: instance_135
+    400884: instance_136
+    400886: instance_137
+    400888: instance_138
+    400890: instance_139
+    400892: instance_14
+    400894: instance_140
+    400896: instance_141
+    400898: instance_142
+    400900: instance_143
+    400902: instance_144
+    400904: instance_145
+    400906: instance_146
+    400908: instance_147
+    400910: instance_148
+    400912: instance_149
+    400914: instance_15
+    400916: instance_150
+    400918: instance_151
+    400920: instance_152
+    400922: instance_153
+    400924: instance_154
+    400926: instance_155
+    400928: instance_156
+    400930: instance_157
+    400932: instance_158
+    400934: instance_159
+    400936: instance_16
+    400938: instance_160
+    400940: instance_161
+    400942: instance_162
+    400944: instance_163
+    400946: instance_164
+    400948: instance_165
+    400950: instance_166
+    400952: instance_167
+    400954: instance_168
+    400956: instance_169
+    400958: instance_17
+    400960: instance_170
+    400962: instance_171
+    400964: instance_172
+    400966: instance_173
+    400968: instance_174
+    400970: instance_175
+    400972: instance_176
+    400974: instance_177
+    400976: instance_178
+    400978: instance_179
+    400980: instance_18
+    400982: instance_180
+    400984: instance_181
+    400986: instance_182
+    400988: instance_183
+    400990: instance_184
+    400992: instance_185
+    400994: instance_186
+    400996: instance_187
+    400998: instance_188
+    401000: instance_189
+    401002: instance_19
+    401004: instance_190
+    401006: instance_191
+    401008: instance_192
+    401010: instance_193
+    401012: instance_194
+    401014: instance_195
+    401016: instance_196
+    401018: instance_197
+    401020: instance_198
+    401022: instance_199
+    401024: instance_2
+    401026: instance_20
+    401028: instance_200
+    401030: instance_201
+    401032: instance_202
+    401034: instance_203
+    401036: instance_204
+    401038: instance_205
+    401040: instance_206
+    401042: instance_207
+    401044: instance_208
+    401046: instance_209
+    401048: instance_21
+    401050: instance_210
+    401052: instance_211
+    401054: instance_212
+    401056: instance_213
+    401058: instance_214
+    401060: instance_215
+    401062: instance_216
+    401064: instance_217
+    401066: instance_218
+    401068: instance_219
+    401070: instance_22
+    401072: instance_220
+    401074: instance_221
+    401076: instance_222
+    401078: instance_223
+    401080: instance_224
+    401082: instance_225
+    401084: instance_226
+    401086: instance_227
+    401088: instance_228
+    401090: instance_229
+    401092: instance_23
+    401094: instance_230
+    401096: instance_231
+    401098: instance_232
+    401100: instance_233
+    401102: instance_234
+    401104: instance_235
+    401106: instance_236
+    401108: instance_237
+    401110: instance_238
+    401112: instance_239
+    401114: instance_24
+    401116: instance_240
+    401118: instance_241
+    401120: instance_242
+    401122: instance_243
+    401124: instance_244
+    401126: instance_245
+    401128: instance_246
+    401130: instance_247
+    401132: instance_248
+    401134: instance_249
+    401136: instance_25
+    401138: instance_250
+    401140: instance_251
+    401142: instance_252
+    401144: instance_253
+    401146: instance_254
+    401148: instance_255
+    401150: instance_256
+    401152: instance_257
+    401154: instance_258
+    401156: instance_259
+    401158: instance_26
+    401160: instance_260
+    401162: instance_261
+    401164: instance_262
+    401166: instance_263
+    401168: instance_264
+    401170: instance_265
+    401172: instance_266
+    401174: instance_267
+    401176: instance_268
+    401178: instance_269
+    401180: instance_27
+    401182: instance_270
+    401184: instance_271
+    401186: instance_272
+    401188: instance_273
+    401190: instance_274
+    401192: instance_275
+    401194: instance_276
+    401196: instance_277
+    401198: instance_278
+    401200: instance_279
+    401202: instance_28
+    401204: instance_280
+    401206: instance_281
+    401208: instance_282
+    401210: instance_283
+    401212: instance_284
+    401214: instance_285
+    401216: instance_286
+    401218: instance_287
+    401220: instance_288
+    401222: instance_29
+    401224: instance_3
+    401226: instance_30
+    401228: instance_31
+    401230: instance_32
+    401232: instance_33
+    401234: instance_34
+    401236: instance_35
+    401238: instance_36
+    401240: instance_37
+    401242: instance_38
+    401244: instance_39
+    401246: instance_4
+    401248: instance_40
+    401250: instance_41
+    401252: instance_42
+    401254: instance_43
+    401256: instance_44
+    401258: instance_45
+    401260: instance_46
+    401262: instance_47
+    401264: instance_48
+    401266: instance_49
+    401268: instance_5
+    401270: instance_50
+    401272: instance_51
+    401274: instance_52
+    401276: instance_53
+    401278: instance_54
+    401280: instance_55
+    401282: instance_56
+    401284: instance_57
+    401286: instance_58
+    401288: instance_59
+    401290: instance_6
+    401292: instance_60
+    401294: instance_61
+    401296: instance_62
+    401298: instance_63
+    401300: instance_64
+    401302: instance_65
+    401304: instance_66
+    401306: instance_67
+    401308: instance_68
+    401310: instance_69
+    401312: instance_7
+    401314: instance_70
+    401316: instance_71
+    401318: instance_72
+    401320: instance_73
+    401322: instance_74
+    401324: instance_75
+    401326: instance_76
+    401328: instance_77
+    401330: instance_78
+    401332: instance_79
+    401334: instance_8
+    401336: instance_80
+    401338: instance_81
+    401340: instance_82
+    401342: instance_83
+    401344: instance_84
+    401346: instance_85
+    401348: instance_86
+    401350: instance_87
+    401352: instance_88
+    401354: instance_89
+    401356: instance_9
+    401358: instance_90
+    401360: instance_91
+    401362: instance_92
+    401364: instance_93
+    401366: instance_94
+    401368: instance_95
+    401370: instance_96
+    401372: instance_97
+    401374: instance_98
+    401376: instance_99
+    401378: Rodeo_2
+    401380: smallcable
+    401382: smallcable 1
+    401384: smallcable 10
+    401386: smallcable 100
+    401388: smallcable 101
+    401390: smallcable 102
+    401392: smallcable 103
+    401394: smallcable 104
+    401396: smallcable 105
+    401398: smallcable 106
+    401400: smallcable 107
+    401402: smallcable 108
+    401404: smallcable 109
+    401406: smallcable 11
+    401408: smallcable 110
+    401410: smallcable 111
+    401412: smallcable 112
+    401414: smallcable 113
+    401416: smallcable 114
+    401418: smallcable 115
+    401420: smallcable 116
+    401422: smallcable 117
+    401424: smallcable 118
+    401426: smallcable 119
+    401428: smallcable 12
+    401430: smallcable 120
+    401432: smallcable 121
+    401434: smallcable 122
+    401436: smallcable 123
+    401438: smallcable 124
+    401440: smallcable 125
+    401442: smallcable 126
+    401444: smallcable 127
+    401446: smallcable 128
+    401448: smallcable 129
+    401450: smallcable 13
+    401452: smallcable 130
+    401454: smallcable 131
+    401456: smallcable 132
+    401458: smallcable 133
+    401460: smallcable 134
+    401462: smallcable 135
+    401464: smallcable 136
+    401466: smallcable 137
+    401468: smallcable 138
+    401470: smallcable 139
+    401472: smallcable 14
+    401474: smallcable 140
+    401476: smallcable 141
+    401478: smallcable 142
+    401480: smallcable 143
+    401482: smallcable 144
+    401484: smallcable 145
+    401486: smallcable 146
+    401488: smallcable 147
+    401490: smallcable 148
+    401492: smallcable 149
+    401494: smallcable 15
+    401496: smallcable 150
+    401498: smallcable 151
+    401500: smallcable 152
+    401502: smallcable 153
+    401504: smallcable 154
+    401506: smallcable 155
+    401508: smallcable 156
+    401510: smallcable 157
+    401512: smallcable 158
+    401514: smallcable 159
+    401516: smallcable 16
+    401518: smallcable 160
+    401520: smallcable 161
+    401522: smallcable 162
+    401524: smallcable 163
+    401526: smallcable 164
+    401528: smallcable 165
+    401530: smallcable 166
+    401532: smallcable 167
+    401534: smallcable 168
+    401536: smallcable 169
+    401538: smallcable 17
+    401540: smallcable 170
+    401542: smallcable 171
+    401544: smallcable 172
+    401546: smallcable 173
+    401548: smallcable 174
+    401550: smallcable 175
+    401552: smallcable 176
+    401554: smallcable 177
+    401556: smallcable 178
+    401558: smallcable 179
+    401560: smallcable 18
+    401562: smallcable 180
+    401564: smallcable 181
+    401566: smallcable 182
+    401568: smallcable 183
+    401570: smallcable 184
+    401572: smallcable 185
+    401574: smallcable 186
+    401576: smallcable 187
+    401578: smallcable 188
+    401580: smallcable 189
+    401582: smallcable 19
+    401584: smallcable 190
+    401586: smallcable 191
+    401588: smallcable 192
+    401590: smallcable 193
+    401592: smallcable 194
+    401594: smallcable 195
+    401596: smallcable 196
+    401598: smallcable 197
+    401600: smallcable 198
+    401602: smallcable 199
+    401604: smallcable 2
+    401606: smallcable 20
+    401608: smallcable 200
+    401610: smallcable 201
+    401612: smallcable 202
+    401614: smallcable 203
+    401616: smallcable 204
+    401618: smallcable 205
+    401620: smallcable 206
+    401622: smallcable 207
+    401624: smallcable 208
+    401626: smallcable 209
+    401628: smallcable 21
+    401630: smallcable 210
+    401632: smallcable 211
+    401634: smallcable 212
+    401636: smallcable 213
+    401638: smallcable 214
+    401640: smallcable 215
+    401642: smallcable 216
+    401644: smallcable 217
+    401646: smallcable 218
+    401648: smallcable 219
+    401650: smallcable 22
+    401652: smallcable 220
+    401654: smallcable 221
+    401656: smallcable 222
+    401658: smallcable 223
+    401660: smallcable 224
+    401662: smallcable 225
+    401664: smallcable 226
+    401666: smallcable 227
+    401668: smallcable 228
+    401670: smallcable 229
+    401672: smallcable 23
+    401674: smallcable 230
+    401676: smallcable 231
+    401678: smallcable 232
+    401680: smallcable 233
+    401682: smallcable 234
+    401684: smallcable 235
+    401686: smallcable 236
+    401688: smallcable 237
+    401690: smallcable 238
+    401692: smallcable 239
+    401694: smallcable 24
+    401696: smallcable 240
+    401698: smallcable 241
+    401700: smallcable 242
+    401702: smallcable 243
+    401704: smallcable 244
+    401706: smallcable 245
+    401708: smallcable 246
+    401710: smallcable 247
+    401712: smallcable 248
+    401714: smallcable 249
+    401716: smallcable 25
+    401718: smallcable 250
+    401720: smallcable 251
+    401722: smallcable 252
+    401724: smallcable 253
+    401726: smallcable 254
+    401728: smallcable 255
+    401730: smallcable 256
+    401732: smallcable 257
+    401734: smallcable 258
+    401736: smallcable 259
+    401738: smallcable 26
+    401740: smallcable 260
+    401742: smallcable 261
+    401744: smallcable 262
+    401746: smallcable 263
+    401748: smallcable 264
+    401750: smallcable 265
+    401752: smallcable 266
+    401754: smallcable 267
+    401756: smallcable 268
+    401758: smallcable 269
+    401760: smallcable 27
+    401762: smallcable 270
+    401764: smallcable 271
+    401766: smallcable 272
+    401768: smallcable 273
+    401770: smallcable 274
+    401772: smallcable 275
+    401774: smallcable 28
+    401776: smallcable 29
+    401778: smallcable 3
+    401780: smallcable 30
+    401782: smallcable 31
+    401784: smallcable 32
+    401786: smallcable 33
+    401788: smallcable 34
+    401790: smallcable 35
+    401792: smallcable 36
+    401794: smallcable 37
+    401796: smallcable 38
+    401798: smallcable 39
+    401800: smallcable 4
+    401802: smallcable 40
+    401804: smallcable 41
+    401806: smallcable 42
+    401808: smallcable 43
+    401810: smallcable 44
+    401812: smallcable 45
+    401814: smallcable 46
+    401816: smallcable 47
+    401818: smallcable 48
+    401820: smallcable 49
+    401822: smallcable 5
+    401824: smallcable 50
+    401826: smallcable 51
+    401828: smallcable 52
+    401830: smallcable 53
+    401832: smallcable 54
+    401834: smallcable 55
+    401836: smallcable 56
+    401838: smallcable 57
+    401840: smallcable 58
+    401842: smallcable 59
+    401844: smallcable 6
+    401846: smallcable 60
+    401848: smallcable 61
+    401850: smallcable 62
+    401852: smallcable 63
+    401854: smallcable 64
+    401856: smallcable 65
+    401858: smallcable 66
+    401860: smallcable 67
+    401862: smallcable 68
+    401864: smallcable 69
+    401866: smallcable 7
+    401868: smallcable 70
+    401870: smallcable 71
+    401872: smallcable 72
+    401874: smallcable 73
+    401876: smallcable 74
+    401878: smallcable 75
+    401880: smallcable 76
+    401882: smallcable 77
+    401884: smallcable 78
+    401886: smallcable 79
+    401888: smallcable 8
+    401890: smallcable 80
+    401892: smallcable 81
+    401894: smallcable 82
+    401896: smallcable 83
+    401898: smallcable 84
+    401900: smallcable 85
+    401902: smallcable 86
+    401904: smallcable 87
+    401906: smallcable 88
+    401908: smallcable 89
+    401910: smallcable 9
+    401912: smallcable 90
+    401914: smallcable 91
+    401916: smallcable 92
+    401918: smallcable 93
+    401920: smallcable 94
+    401922: smallcable 95
+    401924: smallcable 96
+    401926: smallcable 97
+    401928: smallcable 98
+    401930: smallcable 99
+    401932: tower
+    401934: tower 1
+    2300000: Akashi-Kaikyo_Bridge
+    2300002: anchor
+    2300004: anchor 1
+    2300006: cable
+    2300008: cable 1
+    2300010: cable2
+    2300012: cable2 1
+    2300014: cable2 2
+    2300016: cable2 3
+    2300018: Derrick
+    2300020: group_0
+    2300022: ID106
+    2300024: ID1138
+    2300026: ID114
+    2300028: ID1153
+    2300030: ID1168
+    2300032: ID1178
+    2300034: ID1188
+    2300036: ID122
+    2300038: ID130
+    2300040: ID138
+    2300042: ID146
+    2300044: ID154
+    2300046: ID16
+    2300048: ID162
+    2300050: ID170
+    2300052: ID178
+    2300054: ID186
+    2300056: ID194
+    2300058: ID202
+    2300060: ID210
+    2300062: ID218
+    2300064: ID226
+    2300066: ID234
+    2300068: ID24
+    2300070: ID242
+    2300072: ID250
+    2300074: ID258
+    2300076: ID266
+    2300078: ID274
+    2300080: ID292
+    2300082: ID302
+    2300084: ID310
+    2300086: ID32
+    2300088: ID320
+    2300090: ID328
+    2300092: ID336
+    2300094: ID344
+    2300096: ID354
+    2300098: ID362
+    2300100: ID370
+    2300102: ID378
+    2300104: ID386
+    2300106: ID394
+    2300108: ID402
+    2300110: ID410
+    2300112: ID418
+    2300114: ID42
+    2300116: ID428
+    2300118: ID436
+    2300120: ID444
+    2300122: ID454
+    2300124: ID50
+    2300126: ID518
+    2300128: ID533
+    2300130: ID543
+    2300132: ID578
+    2300134: ID578 1
+    2300136: ID58
+    2300138: ID588
+    2300140: ID588 1
+    2300142: ID603
+    2300144: ID603 1
+    2300146: ID618
+    2300148: ID618 1
+    2300150: ID628
+    2300152: ID628 1
+    2300154: ID638
+    2300156: ID638 1
+    2300158: ID648
+    2300160: ID648 1
+    2300162: ID658
+    2300164: ID658 1
+    2300166: ID66
+    2300168: ID668
+    2300170: ID668 1
+    2300172: ID678
+    2300174: ID678 1
+    2300176: ID688
+    2300178: ID688 1
+    2300180: ID698
+    2300182: ID698 1
+    2300184: ID713
+    2300186: ID713 1
+    2300188: ID723
+    2300190: ID723 1
+    2300192: ID733
+    2300194: ID733 1
+    2300196: ID74
+    2300198: ID743
+    2300200: ID743 1
+    2300202: ID753
+    2300204: ID753 1
+    2300206: ID763
+    2300208: ID763 1
+    2300210: ID773
+    2300212: ID773 1
+    2300214: ID82
+    2300216: ID843
+    2300218: ID843 1
+    2300220: ID843 10
+    2300222: ID843 100
+    2300224: ID843 101
+    2300226: ID843 102
+    2300228: ID843 103
+    2300230: ID843 104
+    2300232: ID843 105
+    2300234: ID843 106
+    2300236: ID843 107
+    2300238: ID843 108
+    2300240: ID843 109
+    2300242: ID843 11
+    2300244: ID843 110
+    2300246: ID843 111
+    2300248: ID843 112
+    2300250: ID843 113
+    2300252: ID843 114
+    2300254: ID843 115
+    2300256: ID843 116
+    2300258: ID843 117
+    2300260: ID843 118
+    2300262: ID843 119
+    2300264: ID843 12
+    2300266: ID843 120
+    2300268: ID843 121
+    2300270: ID843 122
+    2300272: ID843 123
+    2300274: ID843 124
+    2300276: ID843 125
+    2300278: ID843 126
+    2300280: ID843 127
+    2300282: ID843 128
+    2300284: ID843 129
+    2300286: ID843 13
+    2300288: ID843 130
+    2300290: ID843 131
+    2300292: ID843 132
+    2300294: ID843 133
+    2300296: ID843 134
+    2300298: ID843 135
+    2300300: ID843 136
+    2300302: ID843 137
+    2300304: ID843 138
+    2300306: ID843 139
+    2300308: ID843 14
+    2300310: ID843 140
+    2300312: ID843 141
+    2300314: ID843 142
+    2300316: ID843 143
+    2300318: ID843 144
+    2300320: ID843 145
+    2300322: ID843 146
+    2300324: ID843 147
+    2300326: ID843 148
+    2300328: ID843 149
+    2300330: ID843 15
+    2300332: ID843 150
+    2300334: ID843 151
+    2300336: ID843 152
+    2300338: ID843 153
+    2300340: ID843 154
+    2300342: ID843 155
+    2300344: ID843 156
+    2300346: ID843 157
+    2300348: ID843 158
+    2300350: ID843 159
+    2300352: ID843 16
+    2300354: ID843 160
+    2300356: ID843 161
+    2300358: ID843 162
+    2300360: ID843 163
+    2300362: ID843 164
+    2300364: ID843 165
+    2300366: ID843 166
+    2300368: ID843 167
+    2300370: ID843 168
+    2300372: ID843 169
+    2300374: ID843 17
+    2300376: ID843 170
+    2300378: ID843 171
+    2300380: ID843 172
+    2300382: ID843 173
+    2300384: ID843 174
+    2300386: ID843 175
+    2300388: ID843 176
+    2300390: ID843 177
+    2300392: ID843 178
+    2300394: ID843 179
+    2300396: ID843 18
+    2300398: ID843 180
+    2300400: ID843 181
+    2300402: ID843 182
+    2300404: ID843 183
+    2300406: ID843 184
+    2300408: ID843 185
+    2300410: ID843 186
+    2300412: ID843 187
+    2300414: ID843 188
+    2300416: ID843 189
+    2300418: ID843 19
+    2300420: ID843 190
+    2300422: ID843 191
+    2300424: ID843 192
+    2300426: ID843 193
+    2300428: ID843 194
+    2300430: ID843 195
+    2300432: ID843 196
+    2300434: ID843 197
+    2300436: ID843 198
+    2300438: ID843 199
+    2300440: ID843 2
+    2300442: ID843 20
+    2300444: ID843 200
+    2300446: ID843 201
+    2300448: ID843 202
+    2300450: ID843 203
+    2300452: ID843 204
+    2300454: ID843 205
+    2300456: ID843 206
+    2300458: ID843 207
+    2300460: ID843 208
+    2300462: ID843 209
+    2300464: ID843 21
+    2300466: ID843 210
+    2300468: ID843 211
+    2300470: ID843 212
+    2300472: ID843 213
+    2300474: ID843 214
+    2300476: ID843 215
+    2300478: ID843 216
+    2300480: ID843 217
+    2300482: ID843 218
+    2300484: ID843 219
+    2300486: ID843 22
+    2300488: ID843 220
+    2300490: ID843 221
+    2300492: ID843 222
+    2300494: ID843 223
+    2300496: ID843 224
+    2300498: ID843 225
+    2300500: ID843 226
+    2300502: ID843 227
+    2300504: ID843 228
+    2300506: ID843 229
+    2300508: ID843 23
+    2300510: ID843 230
+    2300512: ID843 231
+    2300514: ID843 232
+    2300516: ID843 233
+    2300518: ID843 234
+    2300520: ID843 235
+    2300522: ID843 236
+    2300524: ID843 237
+    2300526: ID843 238
+    2300528: ID843 239
+    2300530: ID843 24
+    2300532: ID843 240
+    2300534: ID843 241
+    2300536: ID843 242
+    2300538: ID843 243
+    2300540: ID843 244
+    2300542: ID843 245
+    2300544: ID843 246
+    2300546: ID843 247
+    2300548: ID843 248
+    2300550: ID843 249
+    2300552: ID843 25
+    2300554: ID843 250
+    2300556: ID843 251
+    2300558: ID843 252
+    2300560: ID843 253
+    2300562: ID843 254
+    2300564: ID843 255
+    2300566: ID843 256
+    2300568: ID843 257
+    2300570: ID843 258
+    2300572: ID843 259
+    2300574: ID843 26
+    2300576: ID843 260
+    2300578: ID843 261
+    2300580: ID843 262
+    2300582: ID843 263
+    2300584: ID843 264
+    2300586: ID843 265
+    2300588: ID843 266
+    2300590: ID843 267
+    2300592: ID843 268
+    2300594: ID843 269
+    2300596: ID843 27
+    2300598: ID843 270
+    2300600: ID843 271
+    2300602: ID843 272
+    2300604: ID843 273
+    2300606: ID843 274
+    2300608: ID843 275
+    2300610: ID843 28
+    2300612: ID843 29
+    2300614: ID843 3
+    2300616: ID843 30
+    2300618: ID843 31
+    2300620: ID843 32
+    2300622: ID843 33
+    2300624: ID843 34
+    2300626: ID843 35
+    2300628: ID843 36
+    2300630: ID843 37
+    2300632: ID843 38
+    2300634: ID843 39
+    2300636: ID843 4
+    2300638: ID843 40
+    2300640: ID843 41
+    2300642: ID843 42
+    2300644: ID843 43
+    2300646: ID843 44
+    2300648: ID843 45
+    2300650: ID843 46
+    2300652: ID843 47
+    2300654: ID843 48
+    2300656: ID843 49
+    2300658: ID843 5
+    2300660: ID843 50
+    2300662: ID843 51
+    2300664: ID843 52
+    2300666: ID843 53
+    2300668: ID843 54
+    2300670: ID843 55
+    2300672: ID843 56
+    2300674: ID843 57
+    2300676: ID843 58
+    2300678: ID843 59
+    2300680: ID843 6
+    2300682: ID843 60
+    2300684: ID843 61
+    2300686: ID843 62
+    2300688: ID843 63
+    2300690: ID843 64
+    2300692: ID843 65
+    2300694: ID843 66
+    2300696: ID843 67
+    2300698: ID843 68
+    2300700: ID843 69
+    2300702: ID843 7
+    2300704: ID843 70
+    2300706: ID843 71
+    2300708: ID843 72
+    2300710: ID843 73
+    2300712: ID843 74
+    2300714: ID843 75
+    2300716: ID843 76
+    2300718: ID843 77
+    2300720: ID843 78
+    2300722: ID843 79
+    2300724: ID843 8
+    2300726: ID843 80
+    2300728: ID843 81
+    2300730: ID843 82
+    2300732: ID843 83
+    2300734: ID843 84
+    2300736: ID843 85
+    2300738: ID843 86
+    2300740: ID843 87
+    2300742: ID843 88
+    2300744: ID843 89
+    2300746: ID843 9
+    2300748: ID843 90
+    2300750: ID843 91
+    2300752: ID843 92
+    2300754: ID843 93
+    2300756: ID843 94
+    2300758: ID843 95
+    2300760: ID843 96
+    2300762: ID843 97
+    2300764: ID843 98
+    2300766: ID843 99
+    2300768: ID90
+    2300770: ID98
+    2300772: Rodeo_2
+    2300774: smallcable
+    2300776: smallcable 1
+    2300778: smallcable 10
+    2300780: smallcable 100
+    2300782: smallcable 101
+    2300784: smallcable 102
+    2300786: smallcable 103
+    2300788: smallcable 104
+    2300790: smallcable 105
+    2300792: smallcable 106
+    2300794: smallcable 107
+    2300796: smallcable 108
+    2300798: smallcable 109
+    2300800: smallcable 11
+    2300802: smallcable 110
+    2300804: smallcable 111
+    2300806: smallcable 112
+    2300808: smallcable 113
+    2300810: smallcable 114
+    2300812: smallcable 115
+    2300814: smallcable 116
+    2300816: smallcable 117
+    2300818: smallcable 118
+    2300820: smallcable 119
+    2300822: smallcable 12
+    2300824: smallcable 120
+    2300826: smallcable 121
+    2300828: smallcable 122
+    2300830: smallcable 123
+    2300832: smallcable 124
+    2300834: smallcable 125
+    2300836: smallcable 126
+    2300838: smallcable 127
+    2300840: smallcable 128
+    2300842: smallcable 129
+    2300844: smallcable 13
+    2300846: smallcable 130
+    2300848: smallcable 131
+    2300850: smallcable 132
+    2300852: smallcable 133
+    2300854: smallcable 134
+    2300856: smallcable 135
+    2300858: smallcable 136
+    2300860: smallcable 137
+    2300862: smallcable 138
+    2300864: smallcable 139
+    2300866: smallcable 14
+    2300868: smallcable 140
+    2300870: smallcable 141
+    2300872: smallcable 142
+    2300874: smallcable 143
+    2300876: smallcable 144
+    2300878: smallcable 145
+    2300880: smallcable 146
+    2300882: smallcable 147
+    2300884: smallcable 148
+    2300886: smallcable 149
+    2300888: smallcable 15
+    2300890: smallcable 150
+    2300892: smallcable 151
+    2300894: smallcable 152
+    2300896: smallcable 153
+    2300898: smallcable 154
+    2300900: smallcable 155
+    2300902: smallcable 156
+    2300904: smallcable 157
+    2300906: smallcable 158
+    2300908: smallcable 159
+    2300910: smallcable 16
+    2300912: smallcable 160
+    2300914: smallcable 161
+    2300916: smallcable 162
+    2300918: smallcable 163
+    2300920: smallcable 164
+    2300922: smallcable 165
+    2300924: smallcable 166
+    2300926: smallcable 167
+    2300928: smallcable 168
+    2300930: smallcable 169
+    2300932: smallcable 17
+    2300934: smallcable 170
+    2300936: smallcable 171
+    2300938: smallcable 172
+    2300940: smallcable 173
+    2300942: smallcable 174
+    2300944: smallcable 175
+    2300946: smallcable 176
+    2300948: smallcable 177
+    2300950: smallcable 178
+    2300952: smallcable 179
+    2300954: smallcable 18
+    2300956: smallcable 180
+    2300958: smallcable 181
+    2300960: smallcable 182
+    2300962: smallcable 183
+    2300964: smallcable 184
+    2300966: smallcable 185
+    2300968: smallcable 186
+    2300970: smallcable 187
+    2300972: smallcable 188
+    2300974: smallcable 189
+    2300976: smallcable 19
+    2300978: smallcable 190
+    2300980: smallcable 191
+    2300982: smallcable 192
+    2300984: smallcable 193
+    2300986: smallcable 194
+    2300988: smallcable 195
+    2300990: smallcable 196
+    2300992: smallcable 197
+    2300994: smallcable 198
+    2300996: smallcable 199
+    2300998: smallcable 2
+    2301000: smallcable 20
+    2301002: smallcable 200
+    2301004: smallcable 201
+    2301006: smallcable 202
+    2301008: smallcable 203
+    2301010: smallcable 204
+    2301012: smallcable 205
+    2301014: smallcable 206
+    2301016: smallcable 207
+    2301018: smallcable 208
+    2301020: smallcable 209
+    2301022: smallcable 21
+    2301024: smallcable 210
+    2301026: smallcable 211
+    2301028: smallcable 212
+    2301030: smallcable 213
+    2301032: smallcable 214
+    2301034: smallcable 215
+    2301036: smallcable 216
+    2301038: smallcable 217
+    2301040: smallcable 218
+    2301042: smallcable 219
+    2301044: smallcable 22
+    2301046: smallcable 220
+    2301048: smallcable 221
+    2301050: smallcable 222
+    2301052: smallcable 223
+    2301054: smallcable 224
+    2301056: smallcable 225
+    2301058: smallcable 226
+    2301060: smallcable 227
+    2301062: smallcable 228
+    2301064: smallcable 229
+    2301066: smallcable 23
+    2301068: smallcable 230
+    2301070: smallcable 231
+    2301072: smallcable 232
+    2301074: smallcable 233
+    2301076: smallcable 234
+    2301078: smallcable 235
+    2301080: smallcable 236
+    2301082: smallcable 237
+    2301084: smallcable 238
+    2301086: smallcable 239
+    2301088: smallcable 24
+    2301090: smallcable 240
+    2301092: smallcable 241
+    2301094: smallcable 242
+    2301096: smallcable 243
+    2301098: smallcable 244
+    2301100: smallcable 245
+    2301102: smallcable 246
+    2301104: smallcable 247
+    2301106: smallcable 248
+    2301108: smallcable 249
+    2301110: smallcable 25
+    2301112: smallcable 250
+    2301114: smallcable 251
+    2301116: smallcable 252
+    2301118: smallcable 253
+    2301120: smallcable 254
+    2301122: smallcable 255
+    2301124: smallcable 256
+    2301126: smallcable 257
+    2301128: smallcable 258
+    2301130: smallcable 259
+    2301132: smallcable 26
+    2301134: smallcable 260
+    2301136: smallcable 261
+    2301138: smallcable 262
+    2301140: smallcable 263
+    2301142: smallcable 264
+    2301144: smallcable 265
+    2301146: smallcable 266
+    2301148: smallcable 267
+    2301150: smallcable 268
+    2301152: smallcable 269
+    2301154: smallcable 27
+    2301156: smallcable 270
+    2301158: smallcable 271
+    2301160: smallcable 272
+    2301162: smallcable 273
+    2301164: smallcable 274
+    2301166: smallcable 275
+    2301168: smallcable 28
+    2301170: smallcable 29
+    2301172: smallcable 3
+    2301174: smallcable 30
+    2301176: smallcable 31
+    2301178: smallcable 32
+    2301180: smallcable 33
+    2301182: smallcable 34
+    2301184: smallcable 35
+    2301186: smallcable 36
+    2301188: smallcable 37
+    2301190: smallcable 38
+    2301192: smallcable 39
+    2301194: smallcable 4
+    2301196: smallcable 40
+    2301198: smallcable 41
+    2301200: smallcable 42
+    2301202: smallcable 43
+    2301204: smallcable 44
+    2301206: smallcable 45
+    2301208: smallcable 46
+    2301210: smallcable 47
+    2301212: smallcable 48
+    2301214: smallcable 49
+    2301216: smallcable 5
+    2301218: smallcable 50
+    2301220: smallcable 51
+    2301222: smallcable 52
+    2301224: smallcable 53
+    2301226: smallcable 54
+    2301228: smallcable 55
+    2301230: smallcable 56
+    2301232: smallcable 57
+    2301234: smallcable 58
+    2301236: smallcable 59
+    2301238: smallcable 6
+    2301240: smallcable 60
+    2301242: smallcable 61
+    2301244: smallcable 62
+    2301246: smallcable 63
+    2301248: smallcable 64
+    2301250: smallcable 65
+    2301252: smallcable 66
+    2301254: smallcable 67
+    2301256: smallcable 68
+    2301258: smallcable 69
+    2301260: smallcable 7
+    2301262: smallcable 70
+    2301264: smallcable 71
+    2301266: smallcable 72
+    2301268: smallcable 73
+    2301270: smallcable 74
+    2301272: smallcable 75
+    2301274: smallcable 76
+    2301276: smallcable 77
+    2301278: smallcable 78
+    2301280: smallcable 79
+    2301282: smallcable 8
+    2301284: smallcable 80
+    2301286: smallcable 81
+    2301288: smallcable 82
+    2301290: smallcable 83
+    2301292: smallcable 84
+    2301294: smallcable 85
+    2301296: smallcable 86
+    2301298: smallcable 87
+    2301300: smallcable 88
+    2301302: smallcable 89
+    2301304: smallcable 9
+    2301306: smallcable 90
+    2301308: smallcable 91
+    2301310: smallcable 92
+    2301312: smallcable 93
+    2301314: smallcable 94
+    2301316: smallcable 95
+    2301318: smallcable 96
+    2301320: smallcable 97
+    2301322: smallcable 98
+    2301324: smallcable 99
+    2301326: tower
+    2301328: tower 1
+    3300000: Akashi-Kaikyo_Bridge
+    3300002: anchor
+    3300004: anchor 1
+    3300006: cable
+    3300008: cable 1
+    3300010: cable2
+    3300012: cable2 1
+    3300014: cable2 2
+    3300016: cable2 3
+    3300018: Derrick
+    3300020: group_0
+    3300022: ID106
+    3300024: ID1138
+    3300026: ID114
+    3300028: ID1153
+    3300030: ID1168
+    3300032: ID1178
+    3300034: ID1188
+    3300036: ID122
+    3300038: ID130
+    3300040: ID138
+    3300042: ID146
+    3300044: ID154
+    3300046: ID16
+    3300048: ID162
+    3300050: ID170
+    3300052: ID178
+    3300054: ID186
+    3300056: ID194
+    3300058: ID202
+    3300060: ID210
+    3300062: ID218
+    3300064: ID226
+    3300066: ID234
+    3300068: ID24
+    3300070: ID242
+    3300072: ID250
+    3300074: ID258
+    3300076: ID266
+    3300078: ID274
+    3300080: ID292
+    3300082: ID302
+    3300084: ID310
+    3300086: ID32
+    3300088: ID320
+    3300090: ID328
+    3300092: ID336
+    3300094: ID344
+    3300096: ID354
+    3300098: ID362
+    3300100: ID370
+    3300102: ID378
+    3300104: ID386
+    3300106: ID394
+    3300108: ID402
+    3300110: ID410
+    3300112: ID418
+    3300114: ID42
+    3300116: ID428
+    3300118: ID436
+    3300120: ID444
+    3300122: ID454
+    3300124: ID50
+    3300126: ID518
+    3300128: ID533
+    3300130: ID543
+    3300132: ID578
+    3300134: ID578 1
+    3300136: ID58
+    3300138: ID588
+    3300140: ID588 1
+    3300142: ID603
+    3300144: ID603 1
+    3300146: ID618
+    3300148: ID618 1
+    3300150: ID628
+    3300152: ID628 1
+    3300154: ID638
+    3300156: ID638 1
+    3300158: ID648
+    3300160: ID648 1
+    3300162: ID658
+    3300164: ID658 1
+    3300166: ID66
+    3300168: ID668
+    3300170: ID668 1
+    3300172: ID678
+    3300174: ID678 1
+    3300176: ID688
+    3300178: ID688 1
+    3300180: ID698
+    3300182: ID698 1
+    3300184: ID713
+    3300186: ID713 1
+    3300188: ID723
+    3300190: ID723 1
+    3300192: ID733
+    3300194: ID733 1
+    3300196: ID74
+    3300198: ID743
+    3300200: ID743 1
+    3300202: ID753
+    3300204: ID753 1
+    3300206: ID763
+    3300208: ID763 1
+    3300210: ID773
+    3300212: ID773 1
+    3300214: ID82
+    3300216: ID843
+    3300218: ID843 1
+    3300220: ID843 10
+    3300222: ID843 100
+    3300224: ID843 101
+    3300226: ID843 102
+    3300228: ID843 103
+    3300230: ID843 104
+    3300232: ID843 105
+    3300234: ID843 106
+    3300236: ID843 107
+    3300238: ID843 108
+    3300240: ID843 109
+    3300242: ID843 11
+    3300244: ID843 110
+    3300246: ID843 111
+    3300248: ID843 112
+    3300250: ID843 113
+    3300252: ID843 114
+    3300254: ID843 115
+    3300256: ID843 116
+    3300258: ID843 117
+    3300260: ID843 118
+    3300262: ID843 119
+    3300264: ID843 12
+    3300266: ID843 120
+    3300268: ID843 121
+    3300270: ID843 122
+    3300272: ID843 123
+    3300274: ID843 124
+    3300276: ID843 125
+    3300278: ID843 126
+    3300280: ID843 127
+    3300282: ID843 128
+    3300284: ID843 129
+    3300286: ID843 13
+    3300288: ID843 130
+    3300290: ID843 131
+    3300292: ID843 132
+    3300294: ID843 133
+    3300296: ID843 134
+    3300298: ID843 135
+    3300300: ID843 136
+    3300302: ID843 137
+    3300304: ID843 138
+    3300306: ID843 139
+    3300308: ID843 14
+    3300310: ID843 140
+    3300312: ID843 141
+    3300314: ID843 142
+    3300316: ID843 143
+    3300318: ID843 144
+    3300320: ID843 145
+    3300322: ID843 146
+    3300324: ID843 147
+    3300326: ID843 148
+    3300328: ID843 149
+    3300330: ID843 15
+    3300332: ID843 150
+    3300334: ID843 151
+    3300336: ID843 152
+    3300338: ID843 153
+    3300340: ID843 154
+    3300342: ID843 155
+    3300344: ID843 156
+    3300346: ID843 157
+    3300348: ID843 158
+    3300350: ID843 159
+    3300352: ID843 16
+    3300354: ID843 160
+    3300356: ID843 161
+    3300358: ID843 162
+    3300360: ID843 163
+    3300362: ID843 164
+    3300364: ID843 165
+    3300366: ID843 166
+    3300368: ID843 167
+    3300370: ID843 168
+    3300372: ID843 169
+    3300374: ID843 17
+    3300376: ID843 170
+    3300378: ID843 171
+    3300380: ID843 172
+    3300382: ID843 173
+    3300384: ID843 174
+    3300386: ID843 175
+    3300388: ID843 176
+    3300390: ID843 177
+    3300392: ID843 178
+    3300394: ID843 179
+    3300396: ID843 18
+    3300398: ID843 180
+    3300400: ID843 181
+    3300402: ID843 182
+    3300404: ID843 183
+    3300406: ID843 184
+    3300408: ID843 185
+    3300410: ID843 186
+    3300412: ID843 187
+    3300414: ID843 188
+    3300416: ID843 189
+    3300418: ID843 19
+    3300420: ID843 190
+    3300422: ID843 191
+    3300424: ID843 192
+    3300426: ID843 193
+    3300428: ID843 194
+    3300430: ID843 195
+    3300432: ID843 196
+    3300434: ID843 197
+    3300436: ID843 198
+    3300438: ID843 199
+    3300440: ID843 2
+    3300442: ID843 20
+    3300444: ID843 200
+    3300446: ID843 201
+    3300448: ID843 202
+    3300450: ID843 203
+    3300452: ID843 204
+    3300454: ID843 205
+    3300456: ID843 206
+    3300458: ID843 207
+    3300460: ID843 208
+    3300462: ID843 209
+    3300464: ID843 21
+    3300466: ID843 210
+    3300468: ID843 211
+    3300470: ID843 212
+    3300472: ID843 213
+    3300474: ID843 214
+    3300476: ID843 215
+    3300478: ID843 216
+    3300480: ID843 217
+    3300482: ID843 218
+    3300484: ID843 219
+    3300486: ID843 22
+    3300488: ID843 220
+    3300490: ID843 221
+    3300492: ID843 222
+    3300494: ID843 223
+    3300496: ID843 224
+    3300498: ID843 225
+    3300500: ID843 226
+    3300502: ID843 227
+    3300504: ID843 228
+    3300506: ID843 229
+    3300508: ID843 23
+    3300510: ID843 230
+    3300512: ID843 231
+    3300514: ID843 232
+    3300516: ID843 233
+    3300518: ID843 234
+    3300520: ID843 235
+    3300522: ID843 236
+    3300524: ID843 237
+    3300526: ID843 238
+    3300528: ID843 239
+    3300530: ID843 24
+    3300532: ID843 240
+    3300534: ID843 241
+    3300536: ID843 242
+    3300538: ID843 243
+    3300540: ID843 244
+    3300542: ID843 245
+    3300544: ID843 246
+    3300546: ID843 247
+    3300548: ID843 248
+    3300550: ID843 249
+    3300552: ID843 25
+    3300554: ID843 250
+    3300556: ID843 251
+    3300558: ID843 252
+    3300560: ID843 253
+    3300562: ID843 254
+    3300564: ID843 255
+    3300566: ID843 256
+    3300568: ID843 257
+    3300570: ID843 258
+    3300572: ID843 259
+    3300574: ID843 26
+    3300576: ID843 260
+    3300578: ID843 261
+    3300580: ID843 262
+    3300582: ID843 263
+    3300584: ID843 264
+    3300586: ID843 265
+    3300588: ID843 266
+    3300590: ID843 267
+    3300592: ID843 268
+    3300594: ID843 269
+    3300596: ID843 27
+    3300598: ID843 270
+    3300600: ID843 271
+    3300602: ID843 272
+    3300604: ID843 273
+    3300606: ID843 274
+    3300608: ID843 275
+    3300610: ID843 28
+    3300612: ID843 29
+    3300614: ID843 3
+    3300616: ID843 30
+    3300618: ID843 31
+    3300620: ID843 32
+    3300622: ID843 33
+    3300624: ID843 34
+    3300626: ID843 35
+    3300628: ID843 36
+    3300630: ID843 37
+    3300632: ID843 38
+    3300634: ID843 39
+    3300636: ID843 4
+    3300638: ID843 40
+    3300640: ID843 41
+    3300642: ID843 42
+    3300644: ID843 43
+    3300646: ID843 44
+    3300648: ID843 45
+    3300650: ID843 46
+    3300652: ID843 47
+    3300654: ID843 48
+    3300656: ID843 49
+    3300658: ID843 5
+    3300660: ID843 50
+    3300662: ID843 51
+    3300664: ID843 52
+    3300666: ID843 53
+    3300668: ID843 54
+    3300670: ID843 55
+    3300672: ID843 56
+    3300674: ID843 57
+    3300676: ID843 58
+    3300678: ID843 59
+    3300680: ID843 6
+    3300682: ID843 60
+    3300684: ID843 61
+    3300686: ID843 62
+    3300688: ID843 63
+    3300690: ID843 64
+    3300692: ID843 65
+    3300694: ID843 66
+    3300696: ID843 67
+    3300698: ID843 68
+    3300700: ID843 69
+    3300702: ID843 7
+    3300704: ID843 70
+    3300706: ID843 71
+    3300708: ID843 72
+    3300710: ID843 73
+    3300712: ID843 74
+    3300714: ID843 75
+    3300716: ID843 76
+    3300718: ID843 77
+    3300720: ID843 78
+    3300722: ID843 79
+    3300724: ID843 8
+    3300726: ID843 80
+    3300728: ID843 81
+    3300730: ID843 82
+    3300732: ID843 83
+    3300734: ID843 84
+    3300736: ID843 85
+    3300738: ID843 86
+    3300740: ID843 87
+    3300742: ID843 88
+    3300744: ID843 89
+    3300746: ID843 9
+    3300748: ID843 90
+    3300750: ID843 91
+    3300752: ID843 92
+    3300754: ID843 93
+    3300756: ID843 94
+    3300758: ID843 95
+    3300760: ID843 96
+    3300762: ID843 97
+    3300764: ID843 98
+    3300766: ID843 99
+    3300768: ID90
+    3300770: ID98
+    3300772: Rodeo_2
+    3300774: smallcable
+    3300776: smallcable 1
+    3300778: smallcable 10
+    3300780: smallcable 100
+    3300782: smallcable 101
+    3300784: smallcable 102
+    3300786: smallcable 103
+    3300788: smallcable 104
+    3300790: smallcable 105
+    3300792: smallcable 106
+    3300794: smallcable 107
+    3300796: smallcable 108
+    3300798: smallcable 109
+    3300800: smallcable 11
+    3300802: smallcable 110
+    3300804: smallcable 111
+    3300806: smallcable 112
+    3300808: smallcable 113
+    3300810: smallcable 114
+    3300812: smallcable 115
+    3300814: smallcable 116
+    3300816: smallcable 117
+    3300818: smallcable 118
+    3300820: smallcable 119
+    3300822: smallcable 12
+    3300824: smallcable 120
+    3300826: smallcable 121
+    3300828: smallcable 122
+    3300830: smallcable 123
+    3300832: smallcable 124
+    3300834: smallcable 125
+    3300836: smallcable 126
+    3300838: smallcable 127
+    3300840: smallcable 128
+    3300842: smallcable 129
+    3300844: smallcable 13
+    3300846: smallcable 130
+    3300848: smallcable 131
+    3300850: smallcable 132
+    3300852: smallcable 133
+    3300854: smallcable 134
+    3300856: smallcable 135
+    3300858: smallcable 136
+    3300860: smallcable 137
+    3300862: smallcable 138
+    3300864: smallcable 139
+    3300866: smallcable 14
+    3300868: smallcable 140
+    3300870: smallcable 141
+    3300872: smallcable 142
+    3300874: smallcable 143
+    3300876: smallcable 144
+    3300878: smallcable 145
+    3300880: smallcable 146
+    3300882: smallcable 147
+    3300884: smallcable 148
+    3300886: smallcable 149
+    3300888: smallcable 15
+    3300890: smallcable 150
+    3300892: smallcable 151
+    3300894: smallcable 152
+    3300896: smallcable 153
+    3300898: smallcable 154
+    3300900: smallcable 155
+    3300902: smallcable 156
+    3300904: smallcable 157
+    3300906: smallcable 158
+    3300908: smallcable 159
+    3300910: smallcable 16
+    3300912: smallcable 160
+    3300914: smallcable 161
+    3300916: smallcable 162
+    3300918: smallcable 163
+    3300920: smallcable 164
+    3300922: smallcable 165
+    3300924: smallcable 166
+    3300926: smallcable 167
+    3300928: smallcable 168
+    3300930: smallcable 169
+    3300932: smallcable 17
+    3300934: smallcable 170
+    3300936: smallcable 171
+    3300938: smallcable 172
+    3300940: smallcable 173
+    3300942: smallcable 174
+    3300944: smallcable 175
+    3300946: smallcable 176
+    3300948: smallcable 177
+    3300950: smallcable 178
+    3300952: smallcable 179
+    3300954: smallcable 18
+    3300956: smallcable 180
+    3300958: smallcable 181
+    3300960: smallcable 182
+    3300962: smallcable 183
+    3300964: smallcable 184
+    3300966: smallcable 185
+    3300968: smallcable 186
+    3300970: smallcable 187
+    3300972: smallcable 188
+    3300974: smallcable 189
+    3300976: smallcable 19
+    3300978: smallcable 190
+    3300980: smallcable 191
+    3300982: smallcable 192
+    3300984: smallcable 193
+    3300986: smallcable 194
+    3300988: smallcable 195
+    3300990: smallcable 196
+    3300992: smallcable 197
+    3300994: smallcable 198
+    3300996: smallcable 199
+    3300998: smallcable 2
+    3301000: smallcable 20
+    3301002: smallcable 200
+    3301004: smallcable 201
+    3301006: smallcable 202
+    3301008: smallcable 203
+    3301010: smallcable 204
+    3301012: smallcable 205
+    3301014: smallcable 206
+    3301016: smallcable 207
+    3301018: smallcable 208
+    3301020: smallcable 209
+    3301022: smallcable 21
+    3301024: smallcable 210
+    3301026: smallcable 211
+    3301028: smallcable 212
+    3301030: smallcable 213
+    3301032: smallcable 214
+    3301034: smallcable 215
+    3301036: smallcable 216
+    3301038: smallcable 217
+    3301040: smallcable 218
+    3301042: smallcable 219
+    3301044: smallcable 22
+    3301046: smallcable 220
+    3301048: smallcable 221
+    3301050: smallcable 222
+    3301052: smallcable 223
+    3301054: smallcable 224
+    3301056: smallcable 225
+    3301058: smallcable 226
+    3301060: smallcable 227
+    3301062: smallcable 228
+    3301064: smallcable 229
+    3301066: smallcable 23
+    3301068: smallcable 230
+    3301070: smallcable 231
+    3301072: smallcable 232
+    3301074: smallcable 233
+    3301076: smallcable 234
+    3301078: smallcable 235
+    3301080: smallcable 236
+    3301082: smallcable 237
+    3301084: smallcable 238
+    3301086: smallcable 239
+    3301088: smallcable 24
+    3301090: smallcable 240
+    3301092: smallcable 241
+    3301094: smallcable 242
+    3301096: smallcable 243
+    3301098: smallcable 244
+    3301100: smallcable 245
+    3301102: smallcable 246
+    3301104: smallcable 247
+    3301106: smallcable 248
+    3301108: smallcable 249
+    3301110: smallcable 25
+    3301112: smallcable 250
+    3301114: smallcable 251
+    3301116: smallcable 252
+    3301118: smallcable 253
+    3301120: smallcable 254
+    3301122: smallcable 255
+    3301124: smallcable 256
+    3301126: smallcable 257
+    3301128: smallcable 258
+    3301130: smallcable 259
+    3301132: smallcable 26
+    3301134: smallcable 260
+    3301136: smallcable 261
+    3301138: smallcable 262
+    3301140: smallcable 263
+    3301142: smallcable 264
+    3301144: smallcable 265
+    3301146: smallcable 266
+    3301148: smallcable 267
+    3301150: smallcable 268
+    3301152: smallcable 269
+    3301154: smallcable 27
+    3301156: smallcable 270
+    3301158: smallcable 271
+    3301160: smallcable 272
+    3301162: smallcable 273
+    3301164: smallcable 274
+    3301166: smallcable 275
+    3301168: smallcable 28
+    3301170: smallcable 29
+    3301172: smallcable 3
+    3301174: smallcable 30
+    3301176: smallcable 31
+    3301178: smallcable 32
+    3301180: smallcable 33
+    3301182: smallcable 34
+    3301184: smallcable 35
+    3301186: smallcable 36
+    3301188: smallcable 37
+    3301190: smallcable 38
+    3301192: smallcable 39
+    3301194: smallcable 4
+    3301196: smallcable 40
+    3301198: smallcable 41
+    3301200: smallcable 42
+    3301202: smallcable 43
+    3301204: smallcable 44
+    3301206: smallcable 45
+    3301208: smallcable 46
+    3301210: smallcable 47
+    3301212: smallcable 48
+    3301214: smallcable 49
+    3301216: smallcable 5
+    3301218: smallcable 50
+    3301220: smallcable 51
+    3301222: smallcable 52
+    3301224: smallcable 53
+    3301226: smallcable 54
+    3301228: smallcable 55
+    3301230: smallcable 56
+    3301232: smallcable 57
+    3301234: smallcable 58
+    3301236: smallcable 59
+    3301238: smallcable 6
+    3301240: smallcable 60
+    3301242: smallcable 61
+    3301244: smallcable 62
+    3301246: smallcable 63
+    3301248: smallcable 64
+    3301250: smallcable 65
+    3301252: smallcable 66
+    3301254: smallcable 67
+    3301256: smallcable 68
+    3301258: smallcable 69
+    3301260: smallcable 7
+    3301262: smallcable 70
+    3301264: smallcable 71
+    3301266: smallcable 72
+    3301268: smallcable 73
+    3301270: smallcable 74
+    3301272: smallcable 75
+    3301274: smallcable 76
+    3301276: smallcable 77
+    3301278: smallcable 78
+    3301280: smallcable 79
+    3301282: smallcable 8
+    3301284: smallcable 80
+    3301286: smallcable 81
+    3301288: smallcable 82
+    3301290: smallcable 83
+    3301292: smallcable 84
+    3301294: smallcable 85
+    3301296: smallcable 86
+    3301298: smallcable 87
+    3301300: smallcable 88
+    3301302: smallcable 89
+    3301304: smallcable 9
+    3301306: smallcable 90
+    3301308: smallcable 91
+    3301310: smallcable 92
+    3301312: smallcable 93
+    3301314: smallcable 94
+    3301316: smallcable 95
+    3301318: smallcable 96
+    3301320: smallcable 97
+    3301322: smallcable 98
+    3301324: smallcable 99
+    3301326: tower
+    3301328: tower 1
+    4300000: Derrick
+    4300002: ID292
+    4300004: ID302
+    4300006: ID310
+    4300008: ID320
+    4300010: ID328
+    4300012: ID336
+    4300014: ID344
+    4300016: ID354
+    4300018: ID362
+    4300020: ID370
+    4300022: ID378
+    4300024: ID386
+    4300026: ID394
+    4300028: ID402
+    4300030: ID410
+    4300032: ID418
+    4300034: ID428
+    4300036: ID436
+    4300038: ID444
+    4300040: ID454
+    4300042: Rodeo_2
+    4300044: ID16
+    4300046: ID24
+    4300048: ID32
+    4300050: ID42
+    4300052: ID50
+    4300054: ID58
+    4300056: ID66
+    4300058: ID74
+    4300060: ID82
+    4300062: ID90
+    4300064: ID98
+    4300066: ID106
+    4300068: ID114
+    4300070: ID122
+    4300072: ID130
+    4300074: ID138
+    4300076: ID146
+    4300078: ID154
+    4300080: ID162
+    4300082: ID170
+    4300084: ID178
+    4300086: ID186
+    4300088: ID194
+    4300090: ID202
+    4300092: ID210
+    4300094: ID218
+    4300096: ID226
+    4300098: ID234
+    4300100: ID242
+    4300102: ID250
+    4300104: ID258
+    4300106: ID266
+    4300108: ID274
+    4300110: Akashi-Kaikyo_Bridge
+    4300112: ID1138
+    4300114: ID1153
+    4300116: ID1168
+    4300118: ID1178
+    4300120: ID1188
+    4300122: group_0
+    4300124: ID518
+    4300126: ID533
+    4300128: ID543
+    4300130: tower
+    4300132: ID578
+    4300134: ID588
+    4300136: ID603
+    4300138: ID618
+    4300140: ID628
+    4300142: ID638
+    4300144: ID648
+    4300146: ID658
+    4300148: ID668
+    4300150: ID678
+    4300152: ID688
+    4300154: ID698
+    4300156: ID713
+    4300158: ID723
+    4300160: ID733
+    4300162: ID743
+    4300164: ID753
+    4300166: ID763
+    4300168: ID773
+    4300170: anchor
+    4300172: cable
+    4300174: cable2
+    4300176: smallcable
+    4300178: ID843
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

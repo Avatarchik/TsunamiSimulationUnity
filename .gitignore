@@ -57,7 +57,8 @@ build/
 *_i.c
 *_p.c
 *.ilk
-*.meta
+# *.meta
+# Unity using
 *.obj
 *.pch
 *.pdb
