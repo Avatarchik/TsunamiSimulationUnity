@@ -1,4 +1,4 @@
-﻿
+
 # ascii character
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz

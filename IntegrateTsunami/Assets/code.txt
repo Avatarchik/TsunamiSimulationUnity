@@ -1,54 +1,54 @@
 import fbx dynamicaly *++++***
 
-Z…
+æµ¸æ°´
 	calcHeight( t: float );
 
-	ƒAƒjƒ[ƒVƒ‡ƒ“
-		Ä¶
+	ã‚¢ãƒ‹ãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³
+		å†ç”Ÿ
 			FloodPlay();
 			FloodReset();
 			FloodStop();
-		ƒ^ƒCƒ€ƒ‰ƒCƒ“
+		ã‚¿ã‚¤ãƒ ãƒ©ã‚¤ãƒ³
 			AddFloodKeyFrame( string );
 				"time, height, time, ..."
 			ResetFloodKeyFrame();
-	…ˆÊ
+	æ°´ä½
 		setHeight( string );
 
 	
 
-ŠÔ‚Æ‘¾—z
-	
+æ™‚é–“ã¨å¤ªé™½
+	æ™‚åˆ»
 		time float
-	ƒ‰ƒCƒg
-		Šp“x
-		F
+	ãƒ©ã‚¤ãƒˆ
+		è§’åº¦
+		è‰²
 		on off
 
-“VŒó
+å¤©å€™
 
-ƒVƒF[ƒ_[‚ÌØ‚è‘Ö‚¦
-	’n–Ê
+ã‚·ã‚§ãƒ¼ãƒ€ãƒ¼ã®åˆ‡ã‚Šæ›¿ãˆ
+	åœ°é¢
 		color	color
 		wireframe true, false
 		transparent, true, alpha, false
 
-ƒJƒƒ‰
-	‰ñ“]
-		ƒWƒƒƒCƒ
-	ˆÊ’u
-		‚“x
-			’nŒ`‚Æ‚ÌÕ“Ë”»’è
+ã‚«ãƒ¡ãƒ©
+	å›è»¢
+		ã‚¸ãƒ£ã‚¤ãƒ­
+	ä½ç½®
+		é«˜åº¦
+			åœ°å½¢ã¨ã®è¡çªåˆ¤å®š
 		GPS
 			GPS_MODE; // true, false
-			À•WŒn
+			åº§æ¨™ç³»
 				setRPCS_X( string );
 				setRPCS_Y( string );
-			ˆÜ“xŒo“x
+			ç·¯åº¦çµŒåº¦
 				latitude
 				longitude
 			
-	ƒŒƒ“ƒ_ƒŠƒ“ƒO
+	ãƒ¬ãƒ³ãƒ€ãƒªãƒ³ã‚°
 		focal
 		fov
 		nearclip, farclip
