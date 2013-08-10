@@ -150,10 +150,22 @@ PlayerSettings:
       first: 2
       second: 
     data:
+      first: 4
+      second: 
+    data:
       first: 7
       second: 
     data:
       first: 11
+      second: 
+    data:
+      first: 14
+      second: 
+    data:
+      first: 15
+      second: 
+    data:
+      first: 16
       second: 
   metroPackageName: IntegrateTsunami
   metroPackageLogo: 
