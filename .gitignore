@@ -221,3 +221,9 @@ Temp
 *.sln
 *.userprefs
 *.apk
+CustomClasses4.2/com/
+CustomClasses4.2/org/
+CustomClasses4.2/android.jar
+CustomClasses4.1/com/
+CustomClasses4.1/org/
+CustomClasses4.1/android.jar
