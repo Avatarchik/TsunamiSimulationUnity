@@ -1,43 +1,43 @@
-ƒJƒXƒ^ƒ€‚Ìclasses.jar‚ğì¬‚µ‚Ü‚·B
+ã‚«ã‚¹ã‚¿ãƒ ã®classes.jarã‚’ä½œæˆã—ã¾ã™ã€‚
 
-¡•K—v‚Èƒtƒ@ƒCƒ‹
+â– å¿…è¦ãªãƒ•ã‚¡ã‚¤ãƒ«
 
 classes.jar
 	
-	Eclipse‚ÅUnityEngine‚ğg‚Á‚½apk‚ğì¬‚·‚é‚Ì‚Ég‚¢‚Ü‚·B
-	"ƒCƒ“ƒXƒg[ƒ‹ƒtƒHƒ‹ƒ_\Editor\Data\PlaybackEngines\androidplayer\bin"
-	‚Ì’†‚É‚ ‚è‚Ü‚·B
+	Eclipseã§UnityEngineã‚’ä½¿ã£ãŸapkã‚’ä½œæˆã™ã‚‹ã®ã«ä½¿ã„ã¾ã™ã€‚
+	"ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ãƒ•ã‚©ãƒ«ãƒ€\Editor\Data\PlaybackEngines\androidplayer\bin"
+	ã®ä¸­ã«ã‚ã‚Šã¾ã™ã€‚
 
 
 android.jar
 	
-	Android‚Ìƒ‰ƒCƒuƒ‰ƒŠ‚Å‚·Bclass‚ğì¬‚·‚é‚Æ‚«‚Ég‚¢‚Ü‚·B
-	Android SDK‚Ì’†‚É‚ ‚è‚Ü‚·B
+	Androidã®ãƒ©ã‚¤ãƒ–ãƒ©ãƒªã§ã™ã€‚classã‚’ä½œæˆã™ã‚‹ã¨ãã«ä½¿ã„ã¾ã™ã€‚
+	Android SDKã®ä¸­ã«ã‚ã‚Šã¾ã™ã€‚
 
 
 JDK1.6
 	
-	.classƒtƒ@ƒCƒ‹‚ğì¬‚·‚é‚Ì‚É•K—v‚Å‚·B
-	ƒRƒ}ƒ“ƒhƒ‰ƒCƒ“‚©‚çg‚¦‚é‚æ‚¤‚ÉPATH‚ğ’Ê‚µ‚Ä‚¨‚«‚Ü‚·B
-	1.7‚Å‚ÍƒGƒ‰[‚ªo‚Ü‚·B(2013/08/10Œ»İj
+	.classãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã™ã‚‹ã®ã«å¿…è¦ã§ã™ã€‚
+	ã‚³ãƒãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ã‹ã‚‰ä½¿ãˆã‚‹ã‚ˆã†ã«PATHã‚’é€šã—ã¦ãŠãã¾ã™ã€‚
+	1.7ã§ã¯ã‚¨ãƒ©ãƒ¼ãŒå‡ºã¾ã™ã€‚(2013/08/10ç¾åœ¨ï¼‰
 
 
-¡è‡
+â– æ‰‹é †
 
-1.ƒIƒŠƒWƒiƒ‹‚Ìclasses.jar‚ğ“WŠJ‚µ‚Ü‚·BiunpackClasses.batj
-
-
-2.UnityPlayerActivity.java‚ğ•ÒW‚µ‚Ü‚·B
-@i‚»‚Ì‘¼•K—v‚Èƒtƒ@ƒCƒ‹‚ğ•ÒW‚µ‚Ü‚·j
-@
-@
-3.UnityPlayerActivity.class‚ğì¬‚µ‚Ü‚·BimakeClass.batj
-@i1‚Å“WŠJ‚µ‚½“¯–¼‚Ìƒtƒ@ƒCƒ‹‚ª’uŠ·‚³‚ê‚Ü‚·j
+1.ã‚ªãƒªã‚¸ãƒŠãƒ«ã®classes.jarã‚’å±•é–‹ã—ã¾ã™ã€‚ï¼ˆunpackClasses.batï¼‰
 
 
-4.ƒJƒXƒ^ƒ€‚Ìclasses.jarƒtƒ@ƒCƒ‹‚ğì¬‚µ‚Ü‚·Bimakejar.batj
-@icustomclasses.jar‚Æ‚¢‚¤–¼‘O‚Åì¬‚³‚ê‚Ü‚·j
+2.UnityPlayerActivity.javaã‚’ç·¨é›†ã—ã¾ã™ã€‚
+ã€€ï¼ˆãã®ä»–å¿…è¦ãªãƒ•ã‚¡ã‚¤ãƒ«ã‚’ç·¨é›†ã—ã¾ã™ï¼‰
+ã€€
+ã€€
+3.UnityPlayerActivity.classã‚’ä½œæˆã—ã¾ã™ã€‚ï¼ˆmakeClass.batï¼‰
+ã€€ï¼ˆ1ã§å±•é–‹ã—ãŸåŒåã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒç½®æ›ã•ã‚Œã¾ã™ï¼‰
 
 
-5.EclipseƒvƒƒWƒFƒNƒg‚Ìlibs“à‚É’u‚«‚Ü‚·B
-@classes.jar‚ğ’uŠ·‚·‚éŒ`‚Åİ’u‚µ‚Ü‚·B
+4.ã‚«ã‚¹ã‚¿ãƒ ã®classes.jarãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½œæˆã—ã¾ã™ã€‚ï¼ˆmakejar.batï¼‰
+ã€€ï¼ˆcustomclasses.jarã¨ã„ã†åå‰ã§ä½œæˆã•ã‚Œã¾ã™ï¼‰
+
+
+5.Eclipseãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®libså†…ã«ç½®ãã¾ã™ã€‚
+ã€€classes.jarã‚’ç½®æ›ã™ã‚‹å½¢ã§è¨­ç½®ã—ã¾ã™ã€‚
